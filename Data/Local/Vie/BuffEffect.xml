@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<BuffTemplate>
+	<Buff Index="1" Group="1" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Tăng sức tấn công" BuffDescript="Sát thương vật lý: +%d/Sát thương phép : +%d/Lời nguyền : +%d" />
+	<Buff Index="2" Group="2" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Tăng phòng thủ" BuffDescript="Tăng khả năng phòng thủ : +%d" />
+	<Buff Index="3" Group="3" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Hiệu ứng bóng ma" BuffDescript="Sát thương vật lý : +%d/Sát thương phép : +%d/Lời nguyền : +%d/Phòng thủ : +%d" />
+	<Buff Index="4" Group="4" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Vòng tròn năng lượng" BuffDescript="Hấp thụ sát thương : +%d%%" />
+	<Buff Index="5" Group="5" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Tăng sát thương chí mạng" BuffDescript="Sát thương chí mạng +%d" />
+	<Buff Index="6" Group="6" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Mũi tên vô cực" BuffDescript="Mũi tên không bị tiêu hao." />
+	<Buff Index="7" Group="7" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Tăng tốc độ phục hồi AG" BuffDescript="" />
+	<Buff Index="8" Group="8" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Tăng máu" BuffDescript="Máu tăng lên tối đa/Tăng máu : +%d%%" />
+	<Buff Index="9" Group="9" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Tăng năng lượng" BuffDescript="Chỉ số Mana tăng lên tối đa / Tăng Mana : +%d" />
+	<Buff Index="10" Group="10" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Potion of Blessing" BuffDescript="Sức tấn công : +20%%" />
+	<Buff Index="11" Group="11" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Potion of Soul" BuffDescript="Tăng tốc độ vật lý : +%d/Tăng tốc độ phép thuật : +%d/Tăng phục hồi BP : +%d" />
+	<Buff Index="12" Group="12" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Abolish Magic" BuffDescript="" />
+	<Buff Index="13" Group="13" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Gate Open/Close Status" BuffDescript="" />
+	<Buff Index="14" Group="14" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Watchtower" BuffDescript="Lâu đài quan sát ." />
+	<Buff Index="15" Group="14" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Besiegement Guild1" BuffDescript="Trong quá trình tấn công lâu đài" />
+	<Buff Index="16" Group="14" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Besiegement Guild2" BuffDescript="Trong quá trình tấn công lâu đài" />
+	<Buff Index="17" Group="14" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Besiegement Guild3" BuffDescript="Trong quá trình tấn công lâu đài" />
+	<Buff Index="18" Group="15" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Invisibility" BuffDescript="Tình trạng minh bạch" />
+	<Buff Index="19" Group="16" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Dark Rod Battle Skill" BuffDescript="" />
+	<Buff Index="20" Group="17" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Crown Registration Status" BuffDescript="" />
+	<Buff Index="21" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf contract enabled" BuffDescript="" />
+	<Buff Index="22" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf contract disabled" BuffDescript="" />
+	<Buff Index="23" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf contract Status" BuffDescript="" />
+	<Buff Index="24" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf contract attempt" BuffDescript="" />
+	<Buff Index="25" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf besiegement Status" BuffDescript="" />
+	<Buff Index="26" Group="18" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Altar of Wolf hero contract Status" BuffDescript="" />
+	<Buff Index="27" Group="19" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf NPC transparency" BuffDescript="" />
+	<Buff Index="28" Group="20" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="GM" BuffDescript="" />
+	<Buff Index="29" Group="24" ItemType="13" ItemIndex="43" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Ascension" BuffDescript="Tỉ lệ kinh nghiệm : +%d%%" />
+	<Buff Index="30" Group="24" ItemType="13" ItemIndex="44" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Wealth" BuffDescript="Tỉ lệ kinh nghiệm : +%d%%/Tỉ lệ đồ rơi : +%d%%" />
+	<Buff Index="31" Group="24" ItemType="13" ItemIndex="45" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Sustenance" BuffDescript="Tăng EXP bị vô hiệu hóa" />
+	<Buff Index="32" Group="22" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Temple - Spell of Quickness" BuffDescript="" />
+	<Buff Index="33" Group="22" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Temple - Spell of Sublimation" BuffDescript="" />
+	<Buff Index="34" Group="22" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Spell of Protection" BuffDescript="Thiệt hại hấp thụ : %d%%." />
+	<Buff Index="35" Group="23" ItemType="14" ItemIndex="46" BuffClass="0" NoticeType="0" ClearType="1" Name="Jack O'Lantern Blessings" BuffDescript="Tăng tốc độ vật lý : +%d/Tăng tốc độ phép thuật : +%d" />
+	<Buff Index="36" Group="23" ItemType="14" ItemIndex="47" BuffClass="0" NoticeType="0" ClearType="1" Name="Jack O'Lantern Wrath" BuffDescript=" Tăng tấn công vật lý : +%d/Tăng phép thuật tấn công : +%d" />
+	<Buff Index="37" Group="23" ItemType="14" ItemIndex="48" BuffClass="0" NoticeType="0" ClearType="1" Name="Jack O'Lantern Cry" BuffDescript="Tăng khả năng bảo vệ : +%d" />
+	<Buff Index="38" Group="23" ItemType="14" ItemIndex="49" BuffClass="0" NoticeType="0" ClearType="1" Name="Jack O'Lantern Food" BuffDescript="Tăng máu tối đa : +%d" />
+	<Buff Index="39" Group="23" ItemType="14" ItemIndex="50" BuffClass="0" NoticeType="0" ClearType="1" Name="Jack O'Lantern Drink" BuffDescript="Tăng mana tối đa : +%d" />
+	<Buff Index="40" Group="24" ItemType="13" ItemIndex="43" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Ascension" BuffDescript="Tăng EXP : %d%%" />
+	<Buff Index="41" Group="24" ItemType="13" ItemIndex="44" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Wealth" BuffDescript="Tăng EXP : %d%%/Tăng tỉ lệ rơi item : %d%%" />
+	<Buff Index="42" Group="24" ItemType="13" ItemIndex="45" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Sustenance" BuffDescript="Tăng EXP bị vô hiệu hóa" />
+	<Buff Index="43" Group="24" ItemType="13" ItemIndex="59" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Mobility" BuffDescript="Mobility enabled" />
+	<Buff Index="44" Group="67" ItemType="14" ItemIndex="72" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Quickness" BuffDescript="Attack speed increase +15" />
+	<Buff Index="45" Group="68" ItemType="14" ItemIndex="73" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Defense" BuffDescript="Defensibility increase +60" />
+	<Buff Index="46" Group="69" ItemType="14" ItemIndex="74" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Wrath" BuffDescript="Attack power increase +30" />
+	<Buff Index="47" Group="70" ItemType="14" ItemIndex="75" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Wizardry" BuffDescript="Wizardry increase +30" />
+	<Buff Index="48" Group="71" ItemType="14" ItemIndex="76" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Health" BuffDescript="HP increase +200" />
+	<Buff Index="49" Group="72" ItemType="14" ItemIndex="77" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Mana" BuffDescript="Mana increase +300" />
+	<Buff Index="50" Group="26" ItemType="14" ItemIndex="78" BuffClass="0" NoticeType="1" ClearType="1" Name="Elixir of Strength" BuffDescript="Strength Status +50" />
+	<Buff Index="51" Group="26" ItemType="14" ItemIndex="79" BuffClass="0" NoticeType="1" ClearType="1" Name="Elixir of Agility" BuffDescript="Agility Status +50" />
+	<Buff Index="52" Group="26" ItemType="14" ItemIndex="80" BuffClass="0" NoticeType="1" ClearType="1" Name="Elixir of Health" BuffDescript="Health Status +50" />
+	<Buff Index="53" Group="26" ItemType="14" ItemIndex="81" BuffClass="0" NoticeType="1" ClearType="1" Name="Elixir of Energy" BuffDescript="Energy Status +50" />
+	<Buff Index="54" Group="26" ItemType="14" ItemIndex="82" BuffClass="0" NoticeType="1" ClearType="1" Name="Elixir of Control" BuffDescript="Control Status +50" />
+	<Buff Index="55" Group="27" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Poison" BuffDescript="Poisoned status of condition" />
+	<Buff Index="56" Group="28" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Ice" BuffDescript="Mobility speed decreases." />
+	<Buff Index="57" Group="29" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Iced Arrow" BuffDescript="Mobility disabled" />
+	<Buff Index="58" Group="30" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Defensibility reduction" BuffDescript="Random defensibility decreases at 10%%." />
+	<Buff Index="59" Group="31" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="Attack power reduction" BuffDescript="" />
+	<Buff Index="60" Group="32" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="Wizardry increase reduction" BuffDescript="" />
+	<Buff Index="61" Group="33" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Stun" BuffDescript="Mobility disabled" />
+	<Buff Index="62" Group="34" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="Magic Defense" BuffDescript="" />
+	<Buff Index="63" Group="35" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Monster Magic Attack Resistance" BuffDescript="" />
+	<Buff Index="64" Group="36" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Monster Chemistry Attack Resistance" BuffDescript="" />
+	<Buff Index="65" Group="37" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Spell of Restriction" BuffDescript="Mobility disabled" />
+	<Buff Index="66" Group="38" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf Divine Protection Status" BuffDescript="Cry Wolf Divine Protection Status" />
+	<Buff Index="67" Group="38" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf Divine Protection Status" BuffDescript="Cry Wolf Divine Protection Status" />
+	<Buff Index="68" Group="38" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf Divine Protection Status" BuffDescript="Cry Wolf Divine Protection Status" />
+	<Buff Index="69" Group="38" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf Divine Protection Status" BuffDescript="Cry Wolf Divine Protection Status" />
+	<Buff Index="70" Group="38" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Cry Wolf Divine Protection Status" BuffDescript="Cry Wolf Divine Protection Status" />
+	<Buff Index="71" Group="39" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Damage Reflection" BuffDescript="Partial damage reflected out." />
+	<Buff Index="72" Group="40" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Sleep" BuffDescript="Short period of nap" />
+	<Buff Index="73" Group="40" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Blind" BuffDescript="Shortened view and the attack accuracy decreases." />
+	<Buff Index="74" Group="41" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Requiem" BuffDescript="Summoner Neil attack" />
+	<Buff Index="75" Group="42" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Explosion" BuffDescript="Summoner Shamut attack" />
+	<Buff Index="76" Group="43" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Weakness" BuffDescript="Attack power reduction" />
+	<Buff Index="77" Group="44" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Innovation" BuffDescript="Defensibility reduction" />
+	<Buff Index="78" Group="23" ItemType="14" ItemIndex="85" BuffClass="0" NoticeType="0" ClearType="1" Name="Cherry Blossom Wine" BuffDescript="Maximum Mana increase +700" />
+	<Buff Index="79" Group="23" ItemType="14" ItemIndex="86" BuffClass="0" NoticeType="0" ClearType="1" Name="Cherry Blossom Rice Cake" BuffDescript="Maximum Life increase +700" />
+	<Buff Index="80" Group="23" ItemType="14" ItemIndex="87" BuffClass="0" NoticeType="0" ClearType="1" Name="Cherry Blossom Flower Petal" BuffDescript="Attack power increase +40" />
+	<Buff Index="81" Group="1" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Berserker" BuffDescript="Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases" />
+	<Buff Index="82" Group="45" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Expansion of Wizardry" BuffDescript="Minimum Wizardry increases." />
+	<Buff Index="83" Group="46" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Flame Strike" BuffDescript="" />
+	<Buff Index="84" Group="47" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Gigantic Storm" BuffDescript="" />
+	<Buff Index="85" Group="48" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Lightning Shock" BuffDescript="" />
+	<Buff Index="86" Group="49" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Cold" BuffDescript="Detrimental cold reduces /the mobility speed." />
+	<Buff Index="87" Group="13" ItemType="13" ItemIndex="62" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Healing" BuffDescript="EXP gain increase 150%%/Automatic Life recovery at 5%%" />
+	<Buff Index="88" Group="13" ItemType="13" ItemIndex="63" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Divinity" BuffDescript="Item gain increase at 150%%/Automatic Mana recovery at 5%%" />
+	<Buff Index="89" Group="14" ItemType="14" ItemIndex="97" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Battle" BuffDescript="Critical damage increase at 20%%" />
+	<Buff Index="90" Group="14" ItemType="14" ItemIndex="98" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Strength" BuffDescript="Excellent damage increase at 20%%" />
+	<Buff Index="91" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Blessing of Christmas" BuffDescript="Attack power and Defensibility increases" />
+	<Buff Index="92" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Healing" BuffDescript="Maximum Life increase +500" />
+	<Buff Index="93" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Protection" BuffDescript="Maximum Mana increase +500" />
+	<Buff Index="94" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Strengthener" BuffDescript="Attack power +30" />
+	<Buff Index="95" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Defense" BuffDescript="Defensibility +100" />
+	<Buff Index="96" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Quickness" BuffDescript="Attack speed +15" />
+	<Buff Index="97" Group="23" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Santa Fortune" BuffDescript="AG recovery speed increase +10" />
+	<Buff Index="98" Group="50" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Watch" BuffDescript="You may enter and watch a duel in Arena." />
+	<Buff Index="99" Group="52" ItemType="13" ItemIndex="81" BuffClass="0" NoticeType="0" ClearType="1" Name="Talisman of Guardian" BuffDescript="No penalty for dying." />
+	<Buff Index="100" Group="53" ItemType="13" ItemIndex="82" BuffClass="0" NoticeType="0" ClearType="1" Name="Talisman of Item Protection" BuffDescript="Keeps item durable" />
+	<Buff Index="101" Group="24" ItemType="13" ItemIndex="93" BuffClass="0" NoticeType="0" ClearType="1" Name="Master Seal of Ascension" BuffDescript="EXP gain increase 150%%" />
+	<Buff Index="102" Group="24" ItemType="13" ItemIndex="94" BuffClass="0" NoticeType="0" ClearType="1" Name="Master Seal of Wealth" BuffDescript="EXP gain increase 200%%/Item gain increase 150%%" />
+	<Buff Index="103" Group="51" ItemType="13" ItemIndex="95" BuffClass="0" NoticeType="0" ClearType="1" Name="Gladiator's Honor" BuffDescript="Increases EXP by 20%% /Rare Item drop rate/can be used in Vulcanus only." />
+	<Buff Index="104" Group="21" ItemType="13" ItemIndex="96" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Strength" BuffDescript="Increases Attack Rate and Defense Rate'" />
+	<Buff Index="105" Group="54" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Ascension" BuffDescript="" />
+	<Buff Index="106" Group="55" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="PK Penalty" BuffDescript="Warp Command Window access restricted for five minutes." />
+	<Buff Index="107" Group="56" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="You feel tired." BuffDescript="50%% EXP Gain /50%% Item Drop Rate " />
+	<Buff Index="108" Group="56" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="You feel exhausted." BuffDescript="50%% EXP Gain /0%% Item Drop Rate " />
+	<Buff Index="112" Group="24" ItemType="13" ItemIndex="103" BuffClass="0" NoticeType="1" ClearType="1" Name="Party EXP Bonus Item" BuffDescript="Up to 170% EXP gain, depending on the number of members in the party." />
+	<Buff Index="113" Group="58" ItemType="13" ItemIndex="104" BuffClass="0" NoticeType="1" ClearType="1" Name="Max AG Boost Aura" BuffDescript="Increases your max AG." />
+	<Buff Index="114" Group="59" ItemType="13" ItemIndex="105" BuffClass="0" NoticeType="1" ClearType="1" Name="Max SD Boost Aura" BuffDescript="Increases your max SD." />
+	<Buff Index="115" Group="56" ItemType="13" ItemIndex="117" BuffClass="0" NoticeType="0" ClearType="1" Name="Minimum Vitality" BuffDescript="100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time." />
+	<Buff Index="116" Group="56" ItemType="13" ItemIndex="118" BuffClass="0" NoticeType="0" ClearType="1" Name="Low Vitality" BuffDescript="100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time." />
+	<Buff Index="117" Group="56" ItemType="13" ItemIndex="119" BuffClass="0" NoticeType="0" ClearType="1" Name="Medium Vitality" BuffDescript="100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time." />
+	<Buff Index="118" Group="56" ItemType="13" ItemIndex="120" BuffClass="0" NoticeType="0" ClearType="1" Name="High Vitality" BuffDescript="100%% EXP Gain/100%% Item Drop Rate/Stops stamina from diminishing for a fixed duration of time." />
+	<Buff Index="119" Group="66" ItemType="13" ItemIndex="116" BuffClass="0" NoticeType="0" ClearType="1" Name="Seal of Wealth" BuffDescript="Increases Item Drop Rate to 150%%." />
+	<Buff Index="120" Group="59" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="Punishment for Illicit Software Use" BuffDescript="50%% EXP Gain /0%% Item Drop Rate " />
+	<Buff Index="121" Group="75" ItemType="14" ItemIndex="140" BuffClass="0" NoticeType="1" ClearType="1" Name="Scroll of Healing" BuffDescript="+3%% HP Regen/+100 HP" />
+	<Buff Index="129" Group="79" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Ignore Enemy's Defense" BuffDescript="Increases chance to ignore enemy's defense and inflict damage." />
+	<Buff Index="130" Group="80" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Increase Health" BuffDescript="Increases health stat." />
+	<Buff Index="131" Group="81" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Increase Defense Rate" BuffDescript="Increases maximum defend rate." />
+	<Buff Index="132" Group="82" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="0" ClearType="1" Name="Defense success rate decrease" BuffDescript="Decreases defense success rate." />
+	<Buff Index="133" Group="83" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Invincibility" BuffDescript="Invincible" />
+	<Buff Index="134" Group="84" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Iron Defense" BuffDescript="Significantly increases defense and HP." />
+	<Buff Index="135" Group="8" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Swell Life" BuffDescript="Increases max life and Mana." />
+	<Buff Index="136" Group="8" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Swell Life" BuffDescript="Increases max life, Mana, and AG." />
+	<Buff Index="137" Group="85" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Bleeding" BuffDescript="Drains HP per every second." />
+	<Buff Index="138" Group="45" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Expansion of Wizardry" BuffDescript="Increases min Wizardry and max Wizardry." />
+	<Buff Index="139" Group="45" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Expansion of Wizardry" BuffDescript="Increases min Wizardry, max Wizardry,/ and critical damage rate." />
+	<Buff Index="140" Group="4" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Soul Barrier" BuffDescript="Uses Mana to absorb damage,/ and increases max Mana." />
+	<Buff Index="141" Group="86" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Reduce attack speed" BuffDescript="Reduces Attack speed." />
+	<Buff Index="142" Group="87" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Bless" BuffDescript="Increases all stats by %d." />
+	<Buff Index="143" Group="6" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="0" ClearType="1" Name="Infinity Arrow" BuffDescript="Arrows are not consumed,/ and increases your damage." />
+	<Buff Index="144" Group="88" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Blind" BuffDescript="You are blinded./Decreases attack success rate." />
+	<Buff Index="145" Group="89" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Vampiric" BuffDescript="HP is drained every second and transferred to the target." />
+	<Buff Index="146" Group="90" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Freeze" BuffDescript="Immobilized when you are frozen." />
+	<Buff Index="147" Group="91" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Earth Binds" BuffDescript="Earth Binds" />
+	<Buff Index="148" Group="5" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Critical Damage increase" BuffDescript="Increases critical damage and critical damage rate." />
+	<Buff Index="149" Group="5" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Critical Damage increase" BuffDescript="Increases critical damage and critical damage rate,/ and also increases excellent damage rate." />
+	<Buff Index="150" Group="1" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Berserker" BuffDescript="Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases" />
+	<Buff Index="151" Group="1" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Berserker" BuffDescript="Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases" />
+	<Buff Index="152" Group="1" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Berserker" BuffDescript="Curse spell, Wizardry, Attack power and Maximum Mana increases, Defense and Maximum Life decreases" />
+	<Buff Index="153" Group="81" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Increase Defense Success Rate" BuffDescript="Increases defense success rate." />
+	<Buff Index="154" Group="81" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Increase Defense Success Rate" BuffDescript="Increases maximum defense and defense success rate." />
+	<Buff Index="155" Group="80" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Increase HP" BuffDescript="Increases HP." />
+	<Buff Index="156" Group="79" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Ignore Enemy's Defense" BuffDescript="Increases the chance of ignoring Enemy DEF. If successful, enemy a chance to take a Penetrate Armor" />
+	<Buff Index="157" Group="92" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Fire" BuffDescript="HP is reduced for every second of fire damage." />
+	<Buff Index="158" Group="93" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Frost" BuffDescript="HP is reduced for every second of frost damage." />
+	<Buff Index="159" Group="94" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Poison" BuffDescript="HP is reduced for every second of poison damage." />
+	<Buff Index="160" Group="94" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Poison" BuffDescript="HP is reduced for every second of poison damage." />
+	<Buff Index="161" Group="87" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Bless" BuffDescript="Increases all stats by %d." />
+	<Buff Index="162" Group="43" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Weaken" BuffDescript="Decreases attack rate." />
+	<Buff Index="163" Group="44" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Innovate" BuffDescript="Decreases defense rate." />
+	<Buff Index="164" Group="30" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Decrease Defense Rate" BuffDescript="Decreases defense rate." />
+	<Buff Index="165" Group="84" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Iron Defense" BuffDescript="Significantly increases defense rate and HP." />
+	<Buff Index="166" Group="95" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Blood Howl" BuffDescript="HP is reduced every second." />
+	<Buff Index="167" Group="95" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Blood Howl" BuffDescript="HP is reduced every second." />
+	<Buff Index="169" Group="96" ItemType="255" ItemIndex="255" BuffClass="1" NoticeType="1" ClearType="1" Name="Penetrate Armor" BuffDescript="Decreases defense and defense success rate." />
+	<Buff Index="207" Group="120" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="VIP BUFF 1" BuffDescript="Sát thương %d%%/Sát thương phép : %d%%/Sát Nguyền Rủa : %d%%/Phòng Thủ : %d%%" />
+	<Buff Index="208" Group="120" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="VIP BUFF 2" BuffDescript="Sát thương %d%%/Sát thương phép : %d%%/Sát Nguyền Rủa : %d%%/Phòng Thủ : %d%%" />
+	<Buff Index="209" Group="120" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="VIP BUFF 3" BuffDescript="Sát thương %d%%/Sát thương phép : %d%%/Sát Nguyền Rủa : %d%%/Phòng Thủ : %d%%" />
+	
+	<Buff Index="216" Group="121" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Circle Shield"          BuffDescript="HP is reduced every second." />
+	<Buff Index="217" Group="122" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Obsidian"         	  BuffDescript="HP is reduced every second." />
+	<Buff Index="218" Group="123" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Wrath"         		  BuffDescript="HP is reduced every second." />
+	<Buff Index="219" Group="124" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Burst"         		  BuffDescript="HP is reduced every second." />
+	<Buff Index="220" Group="122" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Obsidian Improved"      BuffDescript="HP is reduced every second." />
+	<Buff Index="221" Group="121" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Circle Shield Improved" BuffDescript="HP is reduced every second." />
+	<Buff Index="222" Group="121" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Circle Shield Enhanced" BuffDescript="HP is reduced every second." />
+	<Buff Index="223" Group="123" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Wrath Improved"         BuffDescript="HP is reduced every second." />
+	<Buff Index="224" Group="123" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Wrath Enhanced"         BuffDescript="HP is reduced every second." />
+	<Buff Index="225" Group="123" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Wrath Mastered"         BuffDescript="HP is reduced every second." />
+	<Buff Index="226" Group="124" ItemType="255" ItemIndex="255" BuffClass="0" NoticeType="1" ClearType="1" Name="Burst Improved"         BuffDescript="HP is reduced every second." />
+	
+</BuffTemplate>
