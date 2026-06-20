@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<TextList>
+	<Text Index="0" Type="0" Descripcion="Lực tấn công một tay: %d ~ %d" />
+	<Text Index="1" Type="0" Descripcion="Lực tấn công hai tay: %d ~ %d" />
+	<Text Index="2" Type="1" Descripcion="Số hạng mục: %d" />
+	<Text Index="3" Type="2" Descripcion="Phòng thủ: %d" />
+	<Text Index="4" Type="3" Descripcion="Kháng phép thuật: %d" />
+	<Text Index="5" Type="15" Descripcion="Tỷ lệ phòng thủ: %d" />
+	<Text Index="6" Type="101" Descripcion="Tốc độ tấn công: %d" />
+	<Text Index="7" Type="102" Descripcion="Tôc độ di chuyển: %d" />
+	<Text Index="8" Type="4" Descripcion="Độ bền: [%d / %d]" />
+	<Text Index="9" Type="5" Descripcion="Yêu cầu mức tối thiểu: %d" />
+	<Text Index="10" Type="201" Descripcion="(Thiếu %d Level)" />
+	<Text Index="11" Type="6" Descripcion="Sức mạnh yêu cầu: %d" />
+	<Text Index="12" Type="202" Descripcion="(Thiếu %d Sức mạnh)" />
+	<Text Index="13" Type="7" Descripcion="Nhanh nhẹn yêu cầu: %d" />
+	<Text Index="14" Type="203" Descripcion="(Thiếu: %d Nhanh nhẹn)" />
+	<Text Index="15" Type="8" Descripcion="Thể lực yêu cầu: %d" />
+	<Text Index="16" Type="204" Descripcion="(Thiếu %d thể lực)" />
+	<Text Index="17" Type="9" Descripcion="Năng Lượng yêu cầu: %d" />
+	<Text Index="18" Type="205" Descripcion="(Thiếu %d năng lượng)" />
+	<Text Index="19" Type="10" Descripcion="Mệnh lệnh yêu cầu: %d" />
+	<Text Index="20" Type="206" Descripcion="(Thiếu %d mệnh lệnh)" />
+	<Text Index="21" Type="11" Descripcion="Tăng sức tấn công của thú cưng +%d%%" />
+	<Text Index="22" Type="11" Descripcion="Tăng phép thuật +%d%%" />
+	<Text Index="23" Type="11" Descripcion="Tăng nguyền rủa +%d%%" />
+	<Text Index="24" Type="13" Descripcion="Tăng tốc độ bơi" />
+	<Text Index="25" Type="13" Descripcion="Tăng tốc độ di chuyển" />
+	<Text Index="26" Type="207" Descripcion="Tăng sát thương %d%%" />
+	<Text Index="27" Type="208" Descripcion="Tăng sát thương %d%%" />
+	<Text Index="28" Type="209" Descripcion="Tăng sát thương %d%%" />
+	<Text Index="29" Type="210" Descripcion="Tăng sát thương %d%%" />
+	<Text Index="30" Type="208" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="31" Type="209" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="32" Type="210" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="33" Type="211" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="34" Type="212" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="35" Type="213" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="36" Type="214" Descripcion="Hấp thụ %d%% sát thương" />
+	<Text Index="37" Type="215" Descripcion="Kết hợp %d %s" />
+	<Text Index="38" Type="-1" Descripcion="Có sẵn sau khi tháo dỡ" />
+	<Text Index="39" Type="-1" Descripcion="Nó được sử dụng để kết hợp vật phẩm Chaos" />
+	<Text Index="40" Type="-1" Descripcion="Ném nó xuống đất để kiếm tiền và vật phẩm xuất hiện." />
+	<Text Index="41" Type="-1" Descripcion="Thuộc tính lửa" />
+	<Text Index="42" Type="-1" Descripcion="Thuộc tính nước" />
+	<Text Index="43" Type="-1" Descripcion="Thuộc tính băng" />
+	<Text Index="44" Type="-1" Descripcion="Thuộc tính gió" />
+	<Text Index="45" Type="-1" Descripcion="Thuộc tính sét" />
+	<Text Index="46" Type="-1" Descripcion="Thuộc tính đất" />
+	<Text Index="47" Type="216" Descripcion="Thành phần: %s" />
+	<Text Index="48" Type="-1" Descripcion="Level: 1" />
+	<Text Index="49" Type="-1" Descripcion="Level: 2" />
+	<Text Index="50" Type="-1" Descripcion="Level: 3" />
+	<Text Index="51" Type="-1" Descripcion="Level: 4" />
+	<Text Index="52" Type="-1" Descripcion="Level: 5" />
+	<Text Index="53" Type="217" Descripcion="Tăng %s" />
+	<Text Index="54" Type="-1" Descripcion="Hấp thụ 20%% sát thương" />
+	<Text Index="55" Type="-1" Descripcion="Tăng HP tối đa +50" />
+	<Text Index="56" Type="1" Descripcion="Sức khỏe: %d" />
+	<Text Index="57" Type="-1" Descripcion="Tăng sức mạnh tấn công và phép thuật 30%%" />
+	<Text Index="58" Type="-1" Descripcion="Tăng sát thương 15%%" />
+	<Text Index="59" Type="-1" Descripcion="Hấp thụ 10%% sát thương" />
+	<Text Index="60" Type="-1" Descripcion="Unable to equip while wearing a different transformation ring" />
+	<Text Index="61" Type="1" Descripcion="Độ bền: [%d]" />
+	<Text Index="62" Type="-1" Descripcion="Được sử dụng khi tạo Áo Tàng hình" />
+	<Text Index="63" Type="-1" Descripcion="Được sử dụng khi vào Huyết Lâu." />
+	<Text Index="64" Type="-1" Descripcion="Nhấp chuột phải để xem còn lại bao nhiêu thời gian." />
+	<Text Index="65" Type="-1" Descripcion="A Horn Fragment can be made by combining the#Divine Protection of the Goddess and an Armor Fragment." />
+	<Text Index="66" Type="-1" Descripcion="A Broken Horn can be made by combining a#Beastly Claw and a Horn Fragment." />
+	<Text Index="67" Type="-1" Descripcion="Horn of Fenrir can be#made by combining items." />
+	<Text Index="68" Type="-1" Descripcion="Không thể sửa chữa" />
+	<Text Index="69" Type="-1" Descripcion="Nhà nghiên cứu Elite Centaur I.D." />
+	<Text Index="70" Type="-1" Descripcion="Bạn có thể vào tháp." />
+	<Text Index="71" Type="1" Descripcion="Số lượng %d/20" />
+	<Text Index="72" Type="1" Descripcion="Số lượng %d/10" />
+	<Text Index="73" Type="-1" Descripcion="Tăng phòng thủ 10%%" />
+	<Text Index="74" Type="218" Descripcion="Tăng HP %d" />
+	<Text Index="75" Type="-1" Descripcion="Tận hưởng các lễ hội Halloween." />
+	<Text Index="76" Type="-1" Descripcion="Không thể trang bị trong khi đeo một chiếc nhẫn biến đổi khác nhau" />
+	<Text Index="77" Type="-1" Descripcion="Tăng sức tấn công +20" />
+	<Text Index="78" Type="-1" Descripcion="Tăng phép thuật 20" />
+	<Text Index="79" Type="-1" Descripcion="Giáng sinh vui vẻ." />
+	<Text Index="80" Type="-1" Descripcion="Tăng sức mạnh tấn công băng, độc, ánh sáng, lửa, đất và lửa 255" />
+	<Text Index="81" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp." />
+	<Text Index="82" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp và tỷ lệ rớt vật phẩm." />
+	<Text Index="83" Type="-1" Descripcion="Ngăn chặn Exp đạt được." />
+	<Text Index="84" Type="-1" Descripcion="Lối vào Quảng trường Quỷ có thể sử dụng một số lần được chỉ định." />
+	<Text Index="85" Type="-1" Descripcion="Bạn sẽ được chỉ định vào một giai đoạn theo cấp độ của bạn." />
+	<Text Index="86" Type="1" Descripcion="Có thể sử dụng %d lần" />
+	<Text Index="87" Type="-1" Descripcion="Lối vào Blood Castle này có thể sử dụng một số lần được chỉ định." />
+	<Text Index="88" Type="-1" Descripcion="Lối vào Kalima này có thể sử dụng một số lần được chỉ định." />
+	<Text Index="89" Type="-1" Descripcion="Lắp ráp cuộn máu với hợp đồng từ phù thủy ảo ảnh." />
+	<Text Index="90" Type="-1" Descripcion="Kết hợp cuộn máu với cuộn cũ." />
+	<Text Index="91" Type="-1" Descripcion="Bằng chứng khiến Pháp sư ảo ảnh xuất hiện." />
+	<Text Index="92" Type="-1" Descripcion="Đặt lại điểm." />
+	<Text Index="93" Type="-1" Descripcion="Nguyên liệu dùng để kêt hợp cánh cấp 3" />
+	<Text Index="94" Type="1" Descripcion="Đặt lại điểm: %d0" />
+	<Text Index="95" Type="-1" Descripcion="Đặt lại trạng thái." />
+	<Text Index="96" Type="-1" Descripcion="Có thể sử dụng khi không sử dụng trang bị" />
+	<Text Index="97" Type="-1" Descripcion="Bạn được tự do đi tiếp." />
+	<Text Index="98" Type="-1" Descripcion="Có thể tải xuống" />
+	<Text Index="99" Type="-1" Descripcion="Điều này làm giảm tỷ lệ tiêu diệt của bạn." />
+	<Text Index="100" Type="-1" Descripcion="Lối vào Đền ảo ảnh này chỉ có thể được sử dụng một số lần được chỉ định." />
+	<Text Index="101" Type="219" Descripcion="Tỉ lệ tăng Exp đạt được %d%%" />
+	<Text Index="102" Type="220" Descripcion="Tốc độ phục hồi HP tự động %d%%" />
+	<Text Index="103" Type="-1" Descripcion="Tăng tốc độ tăng Exp và tốc độ phục hồi HP của bạn." />
+	<Text Index="104" Type="219" Descripcion="Tăng tỷ lệ rơi vật phẩm %d%%" />
+	<Text Index="105" Type="220" Descripcion="Tăng tốc độ phục hồi Mana tự động %d%%" />
+	<Text Index="106" Type="-1" Descripcion="Phục hồi Mana tự động " />
+	<Text Index="107" Type="-1" Descripcion="Tăng sát thương, phép thuật và lời nguyền 40%%" />
+	<Text Index="108" Type="-1" Descripcion="Tăng tốc độ tấn công 10" />
+	<Text Index="109" Type="-1" Descripcion="Giảm sát thương từ quái vật 30%%" />
+	<Text Index="110" Type="-1" Descripcion="Tăng HP tối đa 50" />
+	<Text Index="111" Type="-1" Descripcion="Nhấp chuột phải để warp đến Santa's Village." />
+	<Text Index="112" Type="-1" Descripcion="Tự động thu thập zen xung quanh bạn." />
+	<Text Index="113" Type="-1" Descripcion="Phục hồi tọa độ cũ khi bạn tái sinh." />
+	<Text Index="114" Type="224" Descripcion="Di chuyển bằng cách nhấp vào nút chuột phải." />
+	<Text Index="115" Type="-1" Descripcion="Bạn có thể lưu vị trí của bạn." />
+	<Text Index="116" Type="-1" Descripcion="Vật phẩm / Kỹ năng / May mắn / Tùy chọn sẽ được tạo ngẫu nhiên." />
+	<Text Index="117" Type="-1" Descripcion="Biến bạn thành một chú gấu trúc." />
+	<Text Index="118" Type="-1" Descripcion="Tăng Zen 50%% " />
+	<Text Index="119" Type="-1" Descripcion="Attack/Phép thuật/Curse +30" />
+	<Text Index="120" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp 50%%" />
+	<Text Index="121" Type="-1" Descripcion="Tăng kỹ năng phòng thủ +50" />
+	<Text Index="122" Type="-1" Descripcion="Exp và vật phẩm được bảo quản khi một nhân vật chết." />
+	<Text Index="123" Type="-1" Descripcion="Không có hình phạt cho việc chết." />
+	<Text Index="124" Type="-1" Descripcion="Nhấp chuột phải để sử dụng." />
+	<Text Index="125" Type="-1" Descripcion="Các vật phẩm sẽ không mất độ bền trong một khoảng thời gian nhất định." />
+	<Text Index="126" Type="-1" Descripcion="Duy trì độ bền vật phẩm" />
+	<Text Index="127" Type="-1" Descripcion="Chỉ áp dụng cho các vật phẩm trang bị và vật nuôi." />
+	<Text Index="128" Type="-1" Descripcion="Tăng cơ hội tạo ra đôi cánh bạn mong muốn." />
+	<Text Index="129" Type="-1" Descripcion="Tăng cơ hội tạo ra đôi cánh bạn mong muốn Wings of Satan." />
+	<Text Index="130" Type="-1" Descripcion="Tăng cơ hội tạo ra Wings of Heaven." />
+	<Text Index="131" Type="-1" Descripcion="Tăng cơ hội tạo ra đôi cánh bạn mong muốn." />
+	<Text Index="132" Type="-1" Descripcion="Tăng cơ hội tạo ra Wing of Curse." />
+	<Text Index="133" Type="-1" Descripcion="Tăng cơ hội tạo ra Emperor's Cape." />
+	<Text Index="134" Type="-1" Descripcion="Tăng cơ hội tạo ra Wings of Dragon." />
+	<Text Index="135" Type="-1" Descripcion="Tăng cơ hội tạo ra Wings of Soul." />
+	<Text Index="136" Type="-1" Descripcion="Tăng cơ hội tạo ra Wings of Spirits." />
+	<Text Index="137" Type="-1" Descripcion="Tăng cơ hội tạo Wings of Despair." />
+	<Text Index="138" Type="-1" Descripcion="Tăng cơ hội tạo Cánh Darkness." />
+	<Text Index="139" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp." />
+	<Text Index="140" Type="-1" Descripcion="Cửa sổ bản đồ Warp có sẵn." />
+	<Text Index="141" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp và tỷ lệ rớt vật phẩm." />
+	<Text Index="142" Type="-1" Descripcion="Tăng tỷ lệ tấn công và tỷ lệ phòng thủ." />
+	<Text Index="143" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp lên tới 170%%, tùy thuộc vào số lượng người trong party của bạn" />
+	<Text Index="144" Type="-1" Descripcion="Tăng AG tối đa + cấp độ" />
+	<Text Index="145" Type="-1" Descripcion="Tăng SD tối đa + cấp độ 10x" />
+	<Text Index="146" Type="-1" Descripcion="Tăng tốc độ phục hồi HP tự động 3%%" />
+	<Text Index="147" Type="-1" Descripcion="Tăng Mana tối đa 4%%" />
+	<Text Index="148" Type="-1" Descripcion="Tăng HP tối đa 4%%" />
+	<Text Index="149" Type="-1" Descripcion="Tăng lượng Zen nhận được 30%%" />
+	<Text Index="150" Type="-1" Descripcion="Giảm sát thương 4%%" />
+	<Text Index="151" Type="-1" Descripcion="Tăng sát thương hoàn hảo 10%%" />
+	<Text Index="152" Type="-1" Descripcion="Tăng tốc độ tấn công 7" />
+	<Text Index="153" Type="-1" Descripcion="Tăng Mana khi giết quái vật Mana/8" />
+	<Text Index="154" Type="-1" Descripcion="Tăng tỷ lệ rơi vật phẩm." />
+	<Text Index="155" Type="-1" Descripcion="Duy trì tạm thời HP." />
+	<Text Index="156" Type="-1" Descripcion="Thời hạn: 6 giờ" />
+	<Text Index="157" Type="-1" Descripcion="Thời hạn: 24 giờ" />
+	<Text Index="158" Type="-1" Descripcion="Thời gian: 7 ngày" />
+	<Text Index="159" Type="-1" Descripcion="Thời gian: 30 ngày" />
+	<Text Index="160" Type="-1" Descripcion="Lối vào Hỗn Nguyên Lâu này chỉ có thể được sử dụng một số lần được chỉ định." />
+	<Text Index="161" Type="-1" Descripcion="Trang bị thứ này để biến thành Chiến binh Skeleton." />
+	<Text Index="162" Type="-1" Descripcion="Tấn công / Phép thuật / Nguyền rủa +40" />
+	<Text Index="163" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp 30%% khi được trang bị cùng với pet skeleton." />
+	<Text Index="164" Type="-1" Descripcion="Tăng sát thương, sát thương và nguyền rủa 20%%" />
+	<Text Index="165" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp 30%%" />
+	<Text Index="166" Type="-1" Descripcion="Tăng tỷ lệ tăng Exp 30%% khi được trang bị cùng nhẫn Skeleton Transformation." />
+	<Text Index="167" Type="-1" Descripcion="Bạn có thể nhập vào Kênh Kênh trả phí." />
+	<Text Index="168" Type="-1" Descripcion="Hết hạn sau 7 ngày" />
+	<Text Index="169" Type="-1" Descripcion="Lối vào Doppelganger này có thể sử dụng một số lần được chỉ định." />
+	<Text Index="170" Type="-1" Descripcion="Lối vào Varka này chỉ có thể được sử dụng một số lần được chỉ định." />
+	<Text Index="171" Type="-1" Descripcion="Bản đồ này có thể được vào từ thứ Hai - thứ Bảy." />
+	<Text Index="172" Type="-1" Descripcion="Lối vào bản đồ Varka 7 này chỉ có thể được sử dụng một số lần được chỉ định." />
+	<Text Index="173" Type="-1" Descripcion="Bản đồ này có thể dược vào vào Chủ nhật." />
+	<Text Index="174" Type="222" Descripcion="(đang sử dụng)" />
+	<Text Index="175" Type="-1" Descripcion="Earring. ##Nhấp chuột phải vào mục này trong kho của bạn để sử dụng hoặc không sử dụng nó. ##Hoạt động: Cung cấp cho bạn một phần thưởng." />
+	<Text Index="176" Type="-1" Descripcion="Tăng sát thương chí mạng 10" />
+	<Text Index="177" Type="-1" Descripcion="Hunt HP: 20 ##Hunt MP: 20 ##Kháng sát thương x2: 10" />
+	<Text Index="178" Type="-1" Descripcion="Charm" />
+	<Text Index="179" Type="-1" Descripcion="Tăng HP tối đa 50" />
+	<Text Index="180" Type="-1" Descripcion="Tăng MP tối đa 50" />
+	<Text Index="181" Type="-1" Descripcion="Tăng HP tối đa 100" />
+	<Text Index="182" Type="-1" Descripcion="Tăng SD tối đa 500" />
+	<Text Index="183" Type="-1" Descripcion="Tăng MP tối đa 150" />
+	<Text Index="184" Type="-1" Descripcion="Tăng AG tối đa 50" />
+	<Text Index="185" Type="-1" Descripcion="Thành tích" />
+	<Text Index="186" Type="-1" Descripcion="Tăng tỷ lệ rơi vật phẩm 20%%" />
+	<Text Index="187" Type="-1" Descripcion="Bạn có thể tạo ra các vật phẩm mới từ máy kết hợp Chaos." />
+	<Text Index="188" Type="-1" Descripcion="Bạn có thể đăng ký một mục bằng cách đưa nó cho NPC." />
+	<Text Index="189" Type="-1" Descripcion="Nó được sử dụng để tăng cấp độ vật phẩm của bạn lên đến 6" />
+	<Text Index="190" Type="-1" Descripcion="Được sử dụng để tăng cấp lên 7,8,hoặc 9" />
+	<Text Index="191" Type="-1" Descripcion="Tăng vật phẩm lên 1 cấp" />
+	<Text Index="192" Type="-1" Descripcion="Cái này được sử dụng để kết hợp các vật phẩm để tạo ra vé Devil Square" />
+	<Text Index="193" Type="-1" Descripcion="Nhấp chuột phải để xem còn lại bao nhiêu thời gian." />
+	<Text Index="194" Type="-1" Descripcion="Sử dụng điều này để tạo trái cây làm tăng chỉ số của bạn" />
+	<Text Index="195" Type="-1" Descripcion="Vật phẩm nhiệm vụ" />
+	<Text Index="196" Type="-1" Descripcion="Không thể được lưu trữ trong một nhà kho." />
+	<Text Index="197" Type="-1" Descripcion="Không thể giao dịch" />
+	<Text Index="198" Type="1" Descripcion="%d / 5" />
+	<Text Index="199" Type="-1" Descripcion="Có thể tạo bản đồ bị mất." />
+	<Text Index="200" Type="223" Descripcion="%d là cần thiết để tạo bản đồ bị mất." />
+	<Text Index="201" Type="-1" Descripcion="Tạo và bảo vệ các món đồ Công thành" />
+	<Text Index="202" Type="-1" Descripcion="Ngọc lẫn tạp chất" />
+	<Text Index="203" Type="-1" Descripcion="Vật phẩm tăng cường" />
+	<Text Index="204" Type="-1" Descripcion="Được sử dụng để nâng cấp vật phẩm" />
+	<Text Index="205" Type="-1" Descripcion="Ném cái này để nhận một món quà." />
+	<Text Index="206" Type="219" Descripcion="Tăng tốc độ tấn công %d" />
+	<Text Index="207" Type="219" Descripcion="Tăng sức tấn công %d" />
+	<Text Index="208" Type="219" Descripcion="Tăng phòng thủ %d" />
+	<Text Index="209" Type="219" Descripcion="Tăng HP tối đa bằng %d" />
+	<Text Index="210" Type="219" Descripcion="Tăng Mana tối đa bằng %d" />
+	<Text Index="211" Type="-1" Descripcion="Ném cái này xuống đất để tạo ra Pháo hoa." />
+	<Text Index="212" Type="-1" Descripcion="GM đã tặng bạn món quà đặc biệt này." />
+	<Text Index="213" Type="-1" Descripcion="Tăng tỷ lệ kết hợp, nhưng chỉ lên đến tốc độ tối đa." />
+	<Text Index="214" Type="1" Descripcion="%d%% tăng tỷ lệ thành công kết hợp" />
+	<Text Index="215" Type="-1" Descripcion="Ném vật phẩm này xuống đất để lấy tiền hoặc một bộ áo giáp." />
+	<Text Index="216" Type="-1" Descripcion="Xin chúc mừng!!#Trao đổi vật phẩm chỉ có thể sau khi liên hệ với nhóm CS của chúng tôi." />
+	<Text Index="217" Type="-1" Descripcion="Tốc độ di chuyển giảm khi có được" />
+	<Text Index="218" Type="-1" Descripcion="Phục hồi Stamina ngay lập tức 100%%." />
+	<Text Index="219" Type="-1" Descripcion="Khôi phục ngay lập tức 100%% Mana." />
+	<Text Index="220" Type="219" Descripcion="Tăng tốc độ tấn công %d" />
+	<Text Index="221" Type="219" Descripcion="Tăng tỷ lệ phòng thủ %d" />
+	<Text Index="222" Type="219" Descripcion="Tăng sức tấn công %d" />
+	<Text Index="223" Type="219" Descripcion="Tăng phép thuật %d" />
+	<Text Index="224" Type="219" Descripcion="Tăng HP %d" />
+	<Text Index="225" Type="219" Descripcion="Tăng Mana %d" />
+	<Text Index="226" Type="219" Descripcion="Tăng sức mạnh %d" />
+	<Text Index="227" Type="219" Descripcion="Tăng nhanh nhẹn %d" />
+	<Text Index="228" Type="219" Descripcion="Tăng thể lực %d" />
+	<Text Index="229" Type="219" Descripcion="Tăng năng lượng %d" />
+	<Text Index="230" Type="219" Descripcion="Tăng mệnh lệnh %d" />
+	<Text Index="231" Type="-1" Descripcion="#Tăng số liệu thống kê cho một khoảng thời gian đã đặt." />
+	<Text Index="232" Type="221" Descripcion="Có thể được trang bị %s" />
+	<Text Index="233" Type="-1" Descripcion="Tăng MP tối đa 700" />
+	<Text Index="234" Type="-1" Descripcion="Tăng HP tối đa 700" />
+	<Text Index="235" Type="-1" Descripcion="Tăng sức mạnh tấn công và phép thuật bằng cách 40" />
+	<Text Index="236" Type="-1" Descripcion="Thu thập và đưa họ đến Spirit Blossom Cherry để được bồi thường." />
+	<Text Index="237" Type="-1" Descripcion="Phần thưởng cho 10 miếng" />
+	<Text Index="239" Type="-1" Descripcion="Phần thưởng cho 30 miếng" />
+	<Text Index="240" Type="-1" Descripcion="Phần thưởng cho 255 miếng" />
+	<Text Index="241" Type="-1" Descripcion="Bạn có thể tạo Summoner." />
+	<Text Index="242" Type="-1" Descripcion="Sản xuất vật phẩm cấp thường hoặc cấp cao" />
+	<Text Index="243" Type="-1" Descripcion="Sản xuất vật phẩm sự kiện" />
+	<Text Index="244" Type="-1" Descripcion="Phục hồi ngay lập tức Stamina bằng cách 65%%." />
+	<Text Index="245" Type="-1" Descripcion="Sản xuất các mặt hàng mới bắt đầu" />
+	<Text Index="246" Type="-1" Descripcion="Bạn cần ít nhất nâng cấp cấp độ 10 + + 15 vật phẩm để ngăn vật phẩm này biến mất." />
+	<Text Index="247" Type="-1" Descripcion="Sử dụng cái này sau khi đặt nó vào cửa sổ kết hợp" />
+	<Text Index="248" Type="-1" Descripcion="Tăng sát thương chí mạng 20%%" />
+	<Text Index="249" Type="-1" Descripcion="Tăng sát thương hoàn hảo 20%%" />
+	<Text Index="250" Type="-1" Descripcion="Bạn có thể tiếp tục sử dụng chất tăng cường." />
+	<Text Index="251" Type="-1" Descripcion="Đăng ký với NPC để nhận quà tặng." />
+	<Text Index="252" Type="-1" Descripcion="Đây là một mảnh giấy bị mòn có chứa #văn bản khó hiểu." />
+	<Text Index="253" Type="-1" Descripcion="Đây là kế hoạch tiêu diệt đế chế Gaion và Bộ Tư lệnh Bảo vệ Đế chế." />
+	<Text Index="254" Type="-1" Descripcion="You may enter the Fortress of Empire Guardians." />
+	<Text Index="255" Type="-1" Descripcion="Đây là một phần của Secromicon hoàn chỉnh." />
+	<Text Index="256" Type="-1" Descripcion="Kim loại không thể phá hủy" />
+	<Text Index="257" Type="-1" Descripcion="Chứa thông tin về nghiên cứu của Grand Wizard Etramu Lenos." />
+	<Text Index="258" Type="-1" Descripcion="This is a sign infused with dimensional traces." />
+	<Text Index="259" Type="-1" Descripcion="Thu thập 5 trong số này tự động tạo ra một Dimensional Mirror." />
+	<Text Index="260" Type="223" Descripcion="Bạn cần %d để tạo ra Dimensional Mirror." />
+	<Text Index="261" Type="-1" Descripcion="Đây là một chìa khóa chỉ có thể được sử dụng để dịch chuyển tức thời đến Doppelganger thông qua NPC Lugard." />
+	<Text Index="262" Type="-1" Descripcion="Kết hợp tại Goblin # với Chìa khóa Bạc tạo ra Hộp Bạc." />
+	<Text Index="263" Type="-1" Descripcion="Kết hợp tại Goblin # với Chìa khóa Vàng tạo ra Hộp Vàng." />
+	<Text Index="264" Type="-1" Descripcion="Bạn có thể có được Ruud bằng cách sử dụng bộ nhớ từ cửa hàng vật phẩm trong trò chơi của MU.." />
+	<Text Index="265" Type="-1" Descripcion="Kết hợp tại Goblin # với Chìa khóa Vàng tạo ra Hộp Vàng." />
+	<Text Index="266" Type="-1" Descripcion="Kết hợp tại Goblin # với Chìa khóa Bạc tạo ra Hộp Bạc." />
+	<Text Index="267" Type="-1" Descripcion="Vật phẩm này có xác suất cố định biến thành vật phẩm hiếm khi bị rơi." />
+	<Text Index="268" Type="-1" Descripcion="Khôi phục ngay lập tức SD 65%%." />
+	<Text Index="269" Type="-1" Descripcion="Hộp này chứa các mặt hàng khác nhau." />
+	<Text Index="270" Type="-1" Descripcion="Tăng HP tối đa 100" />
+	<Text Index="271" Type="-1" Descripcion="Nhấn vào mục này để xem thông tin về nhiệm vụ." />
+	<Text Index="272" Type="-1" Descripcion="Lv. 350 - 400" />
+	<Text Index="273" Type="-1" Descripcion="Mang cái này đến Tercia để hoàn trả tiền đặt cọc của bạn." />
+	<Text Index="274" Type="-1" Descripcion="Bạn có thể lấy bột từ Queen Rainier." />
+	<Text Index="275" Type="-1" Descripcion="Một viên ngọc quý hiếm thuộc sở hữu của Nữ hoàng phù thủy đẫm máu." />
+	<Text Index="276" Type="-1" Descripcion="Một bộ áo giáp từng được mặc bởi Tantalos." />
+	<Text Index="277" Type="-1" Descripcion="Một chùy từng được sử dụng bởi Burnt Murderer." />
+	<Text Index="278" Type="-1" Descripcion="Ném vật phẩm này xuống đất để nhận tiền hoặc vũ khí." />
+	<Text Index="279" Type="-1" Descripcion="Ném vật phẩm này xuống đất để nhận tiền hoặc một bộ áo giáp." />
+	<Text Index="280" Type="-1" Descripcion="Ném vật phẩm này xuống đất để nhận tiền, trang sức hoặc vé." />
+	<Text Index="281" Type="-1" Descripcion="Viên ngọc này được sử dụng để sửa chữa các vật phẩm may mắn" />
+	<Text Index="282" Type="-1" Descripcion="Vật phẩm tăng cường" />
+	<Text Index="283" Type="-1" Descripcion="Vật phẩm mở rộng kho." />
+	<Text Index="284" Type="-1" Descripcion="Sau khi sử dụng,bạn cần đăng nhập lại game." />
+	<Text Index="285" Type="12" Descripcion="Sát thương phép thuật: %d - %d" />
+	<Text Index="286" Type="-1" Descripcion="Không thể bán được." />
+	<Text Index="287" Type="-1" Descripcion="Khi bạn thả nó xuống đất, " />
+	<Text Index="288" Type="-1" Descripcion="[Dấu hiệu của chúa / Zen / Ngọc / Vật phẩm]" />
+	<Text Index="289" Type="-1" Descripcion="và bạn sẽ nhận được một trong những mục trên." />
+	<Text Index="290" Type="-1" Descripcion="Vào cửa miễn phí tại Kalima" />
+	<Text Index="291" Type="-1" Descripcion="Tăng HP" />
+	<Text Index="292" Type="-1" Descripcion="Di chuyển đến khu vực tương ứng trong 3 giây" />
+	<Text Index="293" Type="-1" Descripcion="Tăng 1 ~ 3 điểm chỉ số năng lượng" />
+	<Text Index="294" Type="-1" Descripcion="Tăng 1 ~ 3 điểm chỉ số thể lực" />
+	<Text Index="295" Type="-1" Descripcion="Tăng 1 ~ 3 điểm chỉ số nhanh nhẹn" />
+	<Text Index="296" Type="-1" Descripcion="Tăng 1 ~ 3 điểm chỉ số sức mạnh" />
+	<Text Index="297" Type="-1" Descripcion="Tăng 1 ~ 3 điểm chỉ số mệnh lệnh" />
+	<Text Index="298" Type="-1" Descripcion="Có thể giảm năng lượng 1~9 điểm" />
+	<Text Index="299" Type="-1" Descripcion="Có thể giảm HP bằng 1~9 điểm" />
+	<Text Index="300" Type="-1" Descripcion="Có thể giảm 1~9 điểm nhanh nhẹn" />
+	<Text Index="301" Type="-1" Descripcion="Có thể giảm 1~9 điểm sức mạnh" />
+	<Text Index="302" Type="-1" Descripcion="Có thể giảm 1~9 điểm mệnh lệnh" />
+	<Text Index="303" Type="-1" Descripcion="Sử dụng để nâng cấp cánh" />
+	<Text Index="304" Type="-1" Descripcion="Được sử dụng làm áo choàng" />
+	<Text Index="305" Type="-1" Descripcion="Được sử dụng trong các sự kiện trực tuyến." />
+	<Text Index="306" Type="-1" Descripcion="Được sử dụng trong các sự kiện Bạn bè của tôi." />
+	<Text Index="307" Type="-1" Descripcion="Được sử dụng để đăng ký." />
+	<Text Index="308" Type="-1" Descripcion="Bạn có thể ném nếu bạn ít nhất là cấp 40" />
+	<Text Index="309" Type="-1" Descripcion="Yêu cầu cấp 80 để ném." />
+	<Text Index="310" Type="-1" Descripcion="Tăng sát thương 20%%" />
+	<Text Index="311" Type="-1" Descripcion="Thời lượng: 120 giây" />
+	<Text Index="312" Type="-1" Descripcion="Chỉ áp dụng cho cổng lâu đài và tượng" />
+	<Text Index="313" Type="-1" Descripcion="Tăng tốc độ phục hồi AG 8" />
+	<Text Index="314" Type="-1" Descripcion="Tăng khả năng chống sét và băng" />
+	<Text Index="315" Type="-1" Descripcion="Thư triệu tập" />
+	<Text Index="316" Type="-1" Descripcion="Hòn đá Sinh mệnh" />
+	<Text Index="317" Type="-1" Descripcion="Được sử dụng trong hồi sinh Chiến Mã." />
+	<Text Index="318" Type="-1" Descripcion="Được dử dụng trong hồi sinh quạ tinh." />
+	<Text Index="319" Type="-1" Descripcion="[Blue Crystal/Red Crystal/Black Crystal]" />
+	<Text Index="320" Type="-1" Descripcion="Nếu nó được sử dụng trên một sự kiện kết hợp hoặc ném trên sàn, nó sẽ phát nổ và biến mất." />
+	<Text Index="321" Type="-1" Descripcion="Ném cái này để nhận tiền hoặc vật phẩm." />
+	<Text Index="322" Type="-1" Descripcion="Nhấn vào đây để trở về vị trí lưu của bạn." />
+	<Text Index="323" Type="-1" Descripcion="Nhấp chuột phải để lưu vị trí của bạn." />
+	<Text Index="324" Type="-1" Descripcion="Tăng sát thương 3%%" />
+	<Text Index="325" Type="-1" Descripcion="Tăng sát thương 5%%" />
+	<Text Index="326" Type="-1" Descripcion="Tăng sát thương 7%%" />
+	<Text Index="327" Type="-1" Descripcion="Tăng sức tấn công bằng 1" />
+	<Text Index="328" Type="224" Descripcion="Khu vực lưu trữ: %s/vị trí: (%d,%d)" />
+	<Text Index="329" Type="-1" Descripcion="Bão điện (Mana:50)" />
+	<Text Index="330" Type="-1" Descripcion="Với trang bị này, bạn có thể triệu tập Sói Tinh." />
+	<Text Index="331" Type="-1" Descripcion="Kỹ năng cải thiện thông qua nâng cấp." />
+	<Text Index="332" Type="-1" Descripcion="Tăng sát thương 10%%" />
+	<Text Index="333" Type="-1" Descripcion="Với trang bị này bạn có thể triệu tập Sói Tinh." />
+	<Text Index="334" Type="-1" Descripcion="Tăng 10000 HP #Tăng 10000 SD" />
+	<Text Index="335" Type="-1" Descripcion="Tăng 40%% tỷ lệ sát thương hoàn hảo" />
+	<Text Index="336" Type="0" Descripcion="Đây là thiết kế dành cho những anh hùng!" />
+	<Text Index="337" Type="14" Descripcion="Kháng băng: %d" />
+	<Text Index="338" Type="14" Descripcion="Kháng độc: %d" />
+	<Text Index="339" Type="14" Descripcion="Kháng sét: %d" />
+	<Text Index="340" Type="14" Descripcion="Kháng lửa: %d" />
+	<Text Index="341" Type="14" Descripcion="Kháng đất: %d" />
+	<Text Index="342" Type="14" Descripcion="Kháng gió: %d" />
+	<Text Index="343" Type="14" Descripcion="Kháng nước: %d" />
+	<Text Index="344" Type="-1" Descripcion="Nhận phần thưởng khi trả lại cái này cho Thiên Sứ." />
+	<Text Index="345" Type="-1" Descripcion="Tăng sát thương hoàn hảo +10" />
+	<Text Index="346" Type="-1" Descripcion="Archer" />
+	<Text Index="347" Type="-1" Descripcion="Spearman" />
+	<Text Index="348" Type="-1" Descripcion="Tăng tốc độ tấn công 20" />
+	<Text Index="349" Type="-1" Descripcion="Rena" />
+	<Text Index="350" Type="-1" Descripcion="Hấp thụ 10 %% sát thương cuối cùng" />
+	<Text Index="351" Type="-1" Descripcion="Phiên bản đặc biệt của MUTEAM" />
+	<Text Index="352" Type="-1" Descripcion="Vật phẩm kết hợp trang sức nguyên tố" />
+	<Text Index="353" Type="-1" Descripcion="Tăng cấp độ cho món đồ" />
+	<Text Index="354" Type="-1" Descripcion="Tăng tuyệt chiêu món đồ" />
+	<Text Index="355" Type="-1" Descripcion="Tăng may mắn cho món đồ" />
+	<Text Index="356" Type="-1" Descripcion="Tăng tính năng cho món đồ" />
+	<Text Index="357" Type="-1" Descripcion="Tăng dòng hoàn hảo món đồ" />
+	<Text Index="358" Type="-1" Descripcion="Tăng 1 lỗ socket cho món đồ" />
+	<Text Index="359" Type="-1" Descripcion="Nâng cấp Item lên thần (set 1)" />
+	<Text Index="360" Type="-1" Descripcion="Nâng cấp Item lên thần (set 2)" />
+	<Text Index="361" Type="-1" Descripcion="Khi sử dụng sẽ tăng Full tính năng hoàn hảo." />
+	<Text Index="362" Type="-1" Descripcion="# #Dùng để nâng cấp lên cánh 2.5" />
+	<Text Index="363" Type="-1" Descripcion="Vé dùng để dịch chuyển vào Nixie Lake" />
+	<Text Index="397" Type="4" Descripcion="Số lượng: %d viên" />
+	<Text Index="398" Type="4" Descripcion="Số lượng: %d hộp" />
+	<Text Index="399" Type="4" Descripcion="Số lượng: %d" />
+	<Text Index="400" Type="-1" Descripcion="(trang bị phong ấn)# #" />
+	<Text Index="401" Type="-1" Descripcion="Bạn cần Linh hồn anh hùng cổ đại để phá bỏ phong ấn.#Sử dụng Linh hồn anh hùng cổ đại trong kết hợp thông thường tại máy quay Chaos để phá bỏ." />
+	<Text Index="402" Type="-1" Descripcion="(vật liệu quý hiếm) # #Dùng để giải phong ấn #Nâng cấp trang bị lên set Huyết Thần #Đến gặp Goblin và tiến hành kết hợp thông thường" />
+	<Text Index="403" Type="-1" Descripcion="(vật liệu quý hiếm) # #Dùng 10 mảnh nguyên liệu để chế tạo Búa Archangel" />
+	<Text Index="404" Type="-1" Descripcion="(vật liệu quý hiếm) # #Dùng để nâng cấp Vũ Khí Rồng 2" />
+	<Text Index="405" Type="-1" Descripcion="(vật liệu quý hiếm) # #Nguyên liệu dùng để kêt hợp cánh cấp 4" />
+	<Text Index="406" Type="-1" Descripcion="(Pet cấp 1)" />
+	<Text Index="407" Type="-1" Descripcion="(Pet cấp 2)" />
+	<Text Index="408" Type="-1" Descripcion="(Pet cấp 3)" />
+	<Text Index="409" Type="0" Descripcion="Ném quả trứng xuống đất, bạn sẽ nhận được cơ hội để mở khóa một PET mới ngẫu nhiên." />
+	<Text Index="410" Type="0" Descripcion="# #Tăng HP +5000 #Tăng kinh nghiệm +10%%" />
+	<Text Index="411" Type="0" Descripcion="# #Tăng HP +10000 #Tăng kinh nghiệm +20%%" />
+	<Text Index="412" Type="0" Descripcion="# #Tăng HP +15000 #Tăng kinh nghiệm +30%%" />
+	<Text Index="413" Type="0" Descripcion="# #Tăng sát thương hoàn hảo 10%%" />
+	<Text Index="414" Type="0" Descripcion="Lực tấn công: %d ~ %d" />
+	<Text Index="415" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 3%% #Sát thương hoàn hảo + 3%% #Tỷ lệ bạo kích + 3%% #Tăng HP +1000" />
+	<Text Index="416" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 4%% #Sát thương hoàn hảo + 4%% #Tỷ lệ bạo kích + 4%% #Tăng HP +2000" />
+	<Text Index="417" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 5%% #Sát thương hoàn hảo + 5%% #Tỷ lệ bạo kích + 5%% #Tăng HP +3000" />
+	<Text Index="418" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 6%% #Sát thương hoàn hảo + 6%% #Tỷ lệ bạo kích + 6%% #Tăng HP +4000" />
+	<Text Index="419" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 7%% #Sát thương hoàn hảo + 7%% #Tỷ lệ bạo kích + 7%% #Tăng HP +5000" />
+	<Text Index="420" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 8%% #Sát thương hoàn hảo + 8%% #Tỷ lệ bạo kích + 8%% #Tăng HP +6000" />
+	<Text Index="421" Type="0" Descripcion="# #Tấn công vật lý / phép thuật / ma thuật tăng lên + 9%% #Sát thương hoàn hảo + 9%% #Tỷ lệ bạo kích + 9%% #Tăng HP +7000" />
+	<Text Index="422" Type="0" Descripcion="# #Bạn có thể di chuyển đến Nixie Lake bằng cách nhấp vào Nixie Spirite gần sông Nixie" />
+	<Text Index="423" Type="-1" Descripcion="# #Tăng HP +5000 #Tăng SD +5000" />
+	<Text Index="424" Type="-1" Descripcion="Vật liệu nâng cấp" />
+	<Text Index="425" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Hắc Thần" />
+	<Text Index="426" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Thánh Thần" />
+	<Text Index="427" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Linh Hồn" />
+	<Text Index="428" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Mắt Xanh" />
+	<Text Index="429" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Tim Bạc" />
+	<Text Index="430" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Hạt Tử" />
+	<Text Index="431" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Huyễn Quang" />
+	<Text Index="432" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Tận Thế" />
+	<Text Index="433" Type="-1" Descripcion="# #Bạn có thể nâng cấp các vật phẩm lên Tia Chớp" />
+	<Text Index="434" Type="-1" Descripcion="Bạn cần ít nhất nâng cấp cấp độ 10-15 khi thất bại chỉ trừ 1 cấp." />
+</TextList>
