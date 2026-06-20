@@ -1,0 +1,643 @@
+﻿<?xml version="1.0"?>
+<MasterSkillTree>
+    <Skill Id="1" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="322" DefValue="12" />
+    <Skill Id="34" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="322" RequireSkill2="0" Skill="324" DefValue="12" />
+    <Skill Id="37" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="326" DefValue="6" />
+    <Skill Id="42" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="327" DefValue="8" />
+    <Skill Id="43" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="328" DefValue="8" />
+    <Skill Id="44" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="329" DefValue="8" />
+    <Skill Id="45" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="330" DefValue="8" />
+    <Skill Id="46" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="331" DefValue="5" />
+    <Skill Id="49" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="330" RequireSkill2="0" Skill="332" DefValue="1.2" />
+    <Skill Id="50" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="331" RequireSkill2="0" Skill="333" DefValue="1.2" />
+    <Skill Id="51" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="52" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="335" DefValue="5" />
+    <Skill Id="53" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="336" DefValue="5" />
+    <Skill Id="54" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="337" DefValue="5" />
+    <Skill Id="55" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="57" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="336" RequireSkill2="0" Skill="339" DefValue="1.81" />
+    <Skill Id="58" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="337" RequireSkill2="0" Skill="340" DefValue="1.81" />
+    <Skill Id="59" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="61" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="339" RequireSkill2="0" Skill="342" DefValue="1.81" />
+    <Skill Id="62" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="340" RequireSkill2="0" Skill="343" DefValue="1.2" />
+    <Skill Id="65" ClassCode="1" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="345" DefValue="1.81" />
+    <Skill Id="66" ClassCode="0" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="344" DefValue="1.81" />
+    <Skill Id="70" ClassCode="0" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="344" RequireSkill2="0" Skill="346" DefValue="1.81" />
+    <Skill Id="73" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="348" DefValue="8" />
+    <Skill Id="78" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="349" DefValue="5" />
+    <Skill Id="79" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="350" DefValue="6" />
+    <Skill Id="80" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="351" DefValue="6" />
+    <Skill Id="81" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="348" RequireSkill2="0" Skill="352" DefValue="11" />
+    <Skill Id="82" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="349" RequireSkill2="0" Skill="353" DefValue="1" />
+    <Skill Id="83" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="350" RequireSkill2="0" Skill="354" DefValue="1.2" />
+    <Skill Id="84" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="351" RequireSkill2="0" Skill="355" DefValue="1.2" />
+    <Skill Id="85" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="356" DefValue="1.81" />
+    <Skill Id="86" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="356" RequireSkill2="0" Skill="360" DefValue="1.81" />
+    <Skill Id="90" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="361" DefValue="5" />
+    <Skill Id="92" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="93" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="360" RequireSkill2="0" Skill="363" DefValue="1.81" />
+    <Skill Id="94" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="361" RequireSkill2="0" Skill="364" DefValue="6" />
+    <Skill Id="96" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1" />
+    <Skill Id="97" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="5" />
+    <Skill Id="100" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1" />
+    <Skill Id="102" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="1" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="375" DefValue="12" />
+    <Skill Id="34" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="375" RequireSkill2="0" Skill="377" DefValue="12" />
+    <Skill Id="37" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="378" DefValue="8" />
+    <Skill Id="42" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="379" DefValue="8" />
+    <Skill Id="43" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="380" DefValue="1.2" />
+    <Skill Id="45" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="378" RequireSkill2="0" Skill="381" DefValue="5" />
+    <Skill Id="46" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="379" RequireSkill2="0" Skill="382" DefValue="8" />
+    <Skill Id="47" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="380" RequireSkill2="0" Skill="383" DefValue="1.2" />
+    <Skill Id="48" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="384" DefValue="6" />
+    <Skill Id="49" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="385" DefValue="6" />
+    <Skill Id="50" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="385" RequireSkill2="0" Skill="386" DefValue="5" />
+    <Skill Id="51" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="52" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="384" RequireSkill2="0" Skill="387" DefValue="5" />
+    <Skill Id="54" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="388" DefValue="5" />
+    <Skill Id="55" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="56" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="389" DefValue="6" />
+    <Skill Id="57" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="390" DefValue="8" />
+    <Skill Id="59" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="60" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="389" RequireSkill2="0" Skill="391" DefValue="5" />
+    <Skill Id="68" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="64" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="391" RequireSkill2="0" Skill="393" DefValue="1.2" />
+    <Skill Id="65" ClassCode="2" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="390" RequireSkill2="0" Skill="394" DefValue="1.2" />
+    <Skill Id="67" ClassCode="0" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="631" DefValue="1.81" />
+    <Skill Id="69" ClassCode="0" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="642" DefValue="1.2" />
+    <Skill Id="73" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="397" DefValue="5" />
+    <Skill Id="78" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="398" DefValue="8" />
+    <Skill Id="79" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="399" DefValue="8" />
+    <Skill Id="81" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="397" RequireSkill2="0" Skill="400" DefValue="1" />
+    <Skill Id="82" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="398" RequireSkill2="0" Skill="401" DefValue="11" />
+    <Skill Id="83" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="399" RequireSkill2="0" Skill="402" DefValue="12" />
+    <Skill Id="85" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="403" DefValue="1.81" />
+    <Skill Id="86" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="403" RequireSkill2="0" Skill="404" DefValue="8" />
+    <Skill Id="90" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="405" DefValue="5" />
+    <Skill Id="92" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="93" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="404" RequireSkill2="0" Skill="406" DefValue="1.81" />
+    <Skill Id="94" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="405" RequireSkill2="0" Skill="407" DefValue="6" />
+    <Skill Id="96" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1" />
+    <Skill Id="97" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="5" />
+    <Skill Id="100" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1" />
+    <Skill Id="102" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="1" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="410" DefValue="12" />
+    <Skill Id="34" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="410" RequireSkill2="0" Skill="412" DefValue="12" />
+    <Skill Id="37" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="413" DefValue="5.02" />
+    <Skill Id="43" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="414" DefValue="6" />
+    <Skill Id="44" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="415" DefValue="60" />
+    <Skill Id="45" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="416" DefValue="6" />
+    <Skill Id="46" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="417" DefValue="5.02" />
+    <Skill Id="47" ClassCode="4" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="414" RequireSkill2="0" Skill="418" DefValue="-1" />
+    <Skill Id="48" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="415" RequireSkill2="0" Skill="419" DefValue="60" />
+    <Skill Id="49" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="420" DefValue="5.02" />
+    <Skill Id="51" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="421" DefValue="5" />
+    <Skill Id="52" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="53" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="420" RequireSkill2="0" Skill="422" DefValue="5.02" />
+    <Skill Id="54" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="417" RequireSkill2="0" Skill="423" DefValue="5.02" />
+    <Skill Id="55" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="424" DefValue="5" />
+    <Skill Id="56" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="58" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="59" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="411" DefValue="5" />
+    <Skill Id="60" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="61" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="63" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="411" RequireSkill2="0" Skill="431" DefValue="1.02" />
+    <Skill Id="64" ClassCode="4" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="428" DefValue="60" />
+    <Skill Id="65" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="66" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="67" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="68" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="70" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="71" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="73" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="435" DefValue="6" />
+    <Skill Id="78" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="436" DefValue="6" />
+    <Skill Id="79" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="437" DefValue="8" />
+    <Skill Id="81" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="435" RequireSkill2="0" Skill="438" DefValue="1" />
+    <Skill Id="82" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="436" RequireSkill2="0" Skill="439" DefValue="11" />
+    <Skill Id="83" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="437" RequireSkill2="0" Skill="440" DefValue="18" />
+    <Skill Id="86" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="441" DefValue="1.2" />
+    <Skill Id="90" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="442" DefValue="5" />
+    <Skill Id="92" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="94" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="442" RequireSkill2="0" Skill="443" DefValue="6" />
+    <Skill Id="96" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1" />
+    <Skill Id="97" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="1" />
+    <Skill Id="100" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="5" />
+    <Skill Id="102" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="1" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="446" DefValue="12" />
+    <Skill Id="34" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="446" RequireSkill2="0" Skill="447" DefValue="12" />
+    <Skill Id="37" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="448" DefValue="6" />
+    <Skill Id="42" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="449" DefValue="6" />
+    <Skill Id="43" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="450" DefValue="6" />
+    <Skill Id="45" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="448" RequireSkill2="0" Skill="451" DefValue="1.81" />
+    <Skill Id="46" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="449" RequireSkill2="0" Skill="452" DefValue="1.2" />
+    <Skill Id="47" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="450" RequireSkill2="0" Skill="453" DefValue="1.81" />
+    <Skill Id="48" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="454" DefValue="1.2" />
+    <Skill Id="49" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="455" DefValue="5" />
+    <Skill Id="50" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="456" DefValue="5" />
+    <Skill Id="52" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="53" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="457" DefValue="5" />
+    <Skill Id="55" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="458" DefValue="5" />
+    <Skill Id="56" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="58" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="460" DefValue="6" />
+    <Skill Id="60" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="61" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="459" DefValue="6" />
+    <Skill Id="63" ClassCode="8" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="458" RequireSkill2="0" Skill="462" DefValue="12" />
+    <Skill Id="66" ClassCode="0" Group="1" RequiredPoints="1" MaxLevel="10" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="461" DefValue="1.81" />
+    <Skill Id="70" ClassCode="0" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="461" RequireSkill2="0" Skill="463" DefValue="1.81" />
+    <Skill Id="73" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="465" DefValue="5" />
+    <Skill Id="78" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="466" DefValue="6" />
+    <Skill Id="81" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="465" RequireSkill2="0" Skill="467" DefValue="11" />
+    <Skill Id="82" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="466" RequireSkill2="0" Skill="468" DefValue="1" />
+    <Skill Id="85" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="469" DefValue="1.81" />
+    <Skill Id="86" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="469" RequireSkill2="0" Skill="470" DefValue="1.81" />
+    <Skill Id="90" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="471" DefValue="5" />
+    <Skill Id="92" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="93" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="470" RequireSkill2="0" Skill="472" DefValue="8" />
+    <Skill Id="94" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="471" RequireSkill2="0" Skill="473" DefValue="6" />
+    <Skill Id="96" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1" />
+    <Skill Id="97" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="5" />
+    <Skill Id="100" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1" />
+    <Skill Id="102" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="1" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="476" DefValue="12" />
+    <Skill Id="34" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="476" RequireSkill2="0" Skill="478" DefValue="12" />
+    <Skill Id="37" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="479" DefValue="6" />
+    <Skill Id="42" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="480" DefValue="6" />
+    <Skill Id="43" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="7" RequireSkill1="0" RequireSkill2="0" Skill="481" DefValue="6" />
+    <Skill Id="44" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="482" DefValue="6" />
+    <Skill Id="45" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="483" DefValue="6" />
+    <Skill Id="46" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="480" RequireSkill2="0" Skill="484" DefValue="6" />
+    <Skill Id="48" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="481" RequireSkill2="482" Skill="485" DefValue="5" />
+    <Skill Id="49" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="483" RequireSkill2="0" Skill="486" DefValue="5" />
+    <Skill Id="50" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="487" DefValue="6" />
+    <Skill Id="51" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="487" RequireSkill2="0" Skill="488" DefValue="5" />
+    <Skill Id="52" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="54" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="490" DefValue="5" />
+    <Skill Id="55" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="489" DefValue="6" />
+    <Skill Id="56" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="57" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="492" DefValue="5" />
+    <Skill Id="59" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="489" RequireSkill2="0" Skill="491" DefValue="1.2" />
+    <Skill Id="60" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="61" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="492" RequireSkill2="0" Skill="494" DefValue="1.81" />
+    <Skill Id="62" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="490" RequireSkill2="0" Skill="493" DefValue="1.81" />
+    <Skill Id="63" ClassCode="16" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="496" DefValue="5" />
+    <Skill Id="68" ClassCode="0" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="521" DefValue="7.24" />
+    <Skill Id="72" ClassCode="0" Group="1" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="521" RequireSkill2="0" Skill="524" DefValue="7.33375" />
+    <Skill Id="70" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="71" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="73" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="348" DefValue="8" />
+    <Skill Id="78" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="349" DefValue="5" />
+    <Skill Id="79" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="397" DefValue="5" />
+    <Skill Id="80" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="398" DefValue="8" />
+    <Skill Id="81" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="348" RequireSkill2="0" Skill="352" DefValue="11" />
+    <Skill Id="82" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="349" RequireSkill2="0" Skill="353" DefValue="1" />
+    <Skill Id="83" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="397" RequireSkill2="0" Skill="400" DefValue="1" />
+    <Skill Id="84" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="398" RequireSkill2="0" Skill="401" DefValue="11" />
+    <Skill Id="86" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="405" DefValue="5" />
+    <Skill Id="90" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="361" DefValue="5" />
+    <Skill Id="92" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="93" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="405" RequireSkill2="0" Skill="407" DefValue="6" />
+    <Skill Id="94" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="361" RequireSkill2="0" Skill="364" DefValue="6" />
+    <Skill Id="96" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1" />
+    <Skill Id="97" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="5" />
+    <Skill Id="100" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1" />
+    <Skill Id="102" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="1" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="12.04" />
+    <Skill Id="4" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="7" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="8" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="304" DefValue="1.2" />
+    <Skill Id="9" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="11" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="12" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="304" RequireSkill2="0" Skill="308" DefValue="1.2" />
+    <Skill Id="14" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="16" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="308" RequireSkill2="0" Skill="311" DefValue="1.2" />
+    <Skill Id="17" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1" />
+    <Skill Id="25" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="12" />
+    <Skill Id="26" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="12" />
+    <Skill Id="27" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="12" />
+    <Skill Id="28" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="12" />
+    <Skill Id="30" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="505" DefValue="12" />
+    <Skill Id="31" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="506" DefValue="12" />
+    <Skill Id="32" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="623" DefValue="1" />
+    <Skill Id="33" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="34" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="505" RequireSkill2="0" Skill="507" DefValue="12" />
+    <Skill Id="35" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="36" ClassCode="32" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="623" RequireSkill2="0" Skill="625" DefValue="1" />
+    <Skill Id="37" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="508" DefValue="6" />
+    <Skill Id="42" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="509" DefValue="8" />
+    <Skill Id="43" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="510" DefValue="12" />
+    <Skill Id="46" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="511" DefValue="6" />
+    <Skill Id="47" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="510" RequireSkill2="0" Skill="512" DefValue="5" />
+    <Skill Id="48" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="513" DefValue="5" />
+    <Skill Id="49" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="508" RequireSkill2="0" Skill="514" DefValue="1.2" />
+    <Skill Id="50" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="511" RequireSkill2="0" Skill="515" DefValue="8" />
+    <Skill Id="51" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="512" RequireSkill2="0" Skill="516" DefValue="1.2" />
+    <Skill Id="52" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="54" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="515" RequireSkill2="0" Skill="517" DefValue="1.81" />
+    <Skill Id="55" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="518" DefValue="5" />
+    <Skill Id="56" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="57" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="519" DefValue="6" />
+    <Skill Id="59" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="518" RequireSkill2="0" Skill="520" DefValue="11" />
+    <Skill Id="60" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="62" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="517" RequireSkill2="0" Skill="522" DefValue="1.2" />
+    <Skill Id="63" ClassCode="32" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="523" DefValue="5.02" />
+    <Skill Id="73" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="526" DefValue="6" />
+    <Skill Id="78" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="527" DefValue="5" />
+    <Skill Id="79" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="528" DefValue="8" />
+    <Skill Id="80" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="529" DefValue="6" />
+    <Skill Id="81" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="526" RequireSkill2="0" Skill="530" DefValue="1.81" />
+    <Skill Id="82" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="527" RequireSkill2="0" Skill="531" DefValue="11" />
+    <Skill Id="83" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="528" RequireSkill2="0" Skill="532" DefValue="12" />
+    <Skill Id="84" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="529" RequireSkill2="0" Skill="533" DefValue="38" />
+    <Skill Id="85" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="530" RequireSkill2="0" Skill="534" DefValue="1.2" />
+    <Skill Id="86" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9" />
+    <Skill Id="88" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43" />
+    <Skill Id="89" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="538" DefValue="1.2" />
+    <Skill Id="90" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="535" DefValue="12.04" />
+    <Skill Id="91" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="361" DefValue="5" />
+    <Skill Id="92" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43" />
+    <Skill Id="93" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="539" DefValue="1" />
+    <Skill Id="94" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="536" DefValue="1" />
+    <Skill Id="95" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="361" RequireSkill2="0" Skill="364" DefValue="6" />
+    <Skill Id="96" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1.2" />
+    <Skill Id="97" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1" />
+    <Skill Id="98" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1" />
+    <Skill Id="99" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="628" DefValue="5" />
+    <Skill Id="100" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1" />
+    <Skill Id="102" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1" />
+    <Skill Id="104" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1" />
+    <Skill Id="107" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="108" ClassCode="32" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+    <Skill Id="1" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="578" DefValue="12.04" />
+    <Skill Id="4" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="579" DefValue="255" />
+    <Skill Id="6" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="580" DefValue="307" />
+    <Skill Id="7" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="581" DefValue="1.81" />
+    <Skill Id="8" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="582" DefValue="1.2" />
+    <Skill Id="9" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="578" RequireSkill2="0" Skill="583" DefValue="12.04" />
+    <Skill Id="10" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="580" RequireSkill2="0" Skill="584" DefValue="1.2" />
+    <Skill Id="11" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="581" RequireSkill2="0" Skill="585" DefValue="1.2" />
+    <Skill Id="12" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="582" RequireSkill2="0" Skill="586" DefValue="1.2" />
+    <Skill Id="14" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="587" DefValue="33" />
+    <Skill Id="15" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="585" RequireSkill2="0" Skill="588" DefValue="1.2" />
+    <Skill Id="16" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="586" RequireSkill2="0" Skill="589" DefValue="1.2" />
+    <Skill Id="17" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="583" RequireSkill2="0" Skill="590" DefValue="12.04" />
+    <Skill Id="18" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="587" RequireSkill2="0" Skill="591" DefValue="1.2" />
+    <Skill Id="23" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="593" DefValue="6" />
+    <Skill Id="24" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="593" RequireSkill2="0" Skill="594" DefValue="1" />
+    <Skill Id="25" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="595" DefValue="9" />
+    <Skill Id="26" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="596" DefValue="9" />
+    <Skill Id="27" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="597" DefValue="9" />
+    <Skill Id="28" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="598" DefValue="9" />
+    <Skill Id="30" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="549" DefValue="12" />
+    <Skill Id="33" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="33" />
+    <Skill Id="34" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="549" RequireSkill2="0" Skill="550" DefValue="12" />
+    <Skill Id="35" ClassCode="64" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="1.2" />
+    <Skill Id="37" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="599" DefValue="204" />
+    <Skill Id="41" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="551" DefValue="5" />
+    <Skill Id="42" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="552" DefValue="5" />
+    <Skill Id="45" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="551" RequireSkill2="0" Skill="554" DefValue="1.2" />
+    <Skill Id="46" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="552" RequireSkill2="0" Skill="555" DefValue="1.2" />
+    <Skill Id="51" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="600" DefValue="54" />
+    <Skill Id="52" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="557" DefValue="5" />
+    <Skill Id="53" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="558" DefValue="5" />
+    <Skill Id="54" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="559" DefValue="5" />
+    <Skill Id="55" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="600" RequireSkill2="0" Skill="601" DefValue="54" />
+    <Skill Id="56" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="560" DefValue="5" />
+    <Skill Id="59" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="601" RequireSkill2="0" Skill="602" DefValue="18" />
+    <Skill Id="60" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="560" RequireSkill2="0" Skill="561" DefValue="1.2" />
+    <Skill Id="61" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="558" RequireSkill2="0" Skill="562" DefValue="1.2" />
+    <Skill Id="62" ClassCode="64" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="559" RequireSkill2="0" Skill="563" DefValue="-1" />
+    <Skill Id="63" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="564" DefValue="5" />
+    <Skill Id="66" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="67" ClassCode="64" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="564" RequireSkill2="0" Skill="566" DefValue="1" />
+    <Skill Id="70" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="73" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="603" DefValue="327" />
+    <Skill Id="77" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="568" DefValue="5" />
+    <Skill Id="78" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="569" DefValue="5" />
+    <Skill Id="81" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="568" RequireSkill2="0" Skill="571" DefValue="1.2" />
+    <Skill Id="82" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="569" RequireSkill2="0" Skill="572" DefValue="5" />
+    <Skill Id="85" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="573" DefValue="11" />
+    <Skill Id="86" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="604" DefValue="7.22" />
+    <Skill Id="87" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="605" DefValue="9" />
+    <Skill Id="88" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="606" DefValue="43" />
+    <Skill Id="90" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="607" DefValue="5" />
+    <Skill Id="92" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="606" RequireSkill2="0" Skill="608" DefValue="43" />
+    <Skill Id="94" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="607" RequireSkill2="0" Skill="609" DefValue="6" />
+    <Skill Id="96" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="610" DefValue="1" />
+    <Skill Id="98" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="611" DefValue="1" />
+    <Skill Id="99" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="612" DefValue="1" />
+    <Skill Id="100" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="610" RequireSkill2="0" Skill="613" DefValue="1" />
+    <Skill Id="102" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="614" DefValue="1" />
+    <Skill Id="103" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="612" RequireSkill2="0" Skill="616" DefValue="1" />
+    <Skill Id="106" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="614" RequireSkill2="0" Skill="615" DefValue="1" />
+    <Skill Id="31" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="624" DefValue="1" />
+    <Skill Id="32" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="623" DefValue="1" />
+    <Skill Id="33" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="35" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="36" ClassCode="1" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="623" RequireSkill2="0" Skill="625" DefValue="1" />
+    <Skill Id="107" ClassCode="64" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="615" RequireSkill2="0" Skill="617" DefValue="1" />
+    <Skill Id="68" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="72" ClassCode="0" Group="0" RequiredPoints="0" MaxLevel="0" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="0" DefValue="0" />
+    <Skill Id="108" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+    <Skill Id="107" ClassCode="1" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="32" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="623" DefValue="1" />
+    <Skill Id="33" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="35" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="36" ClassCode="2" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="625" DefValue="1" />
+    <Skill Id="107" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="108" ClassCode="2" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+    <Skill Id="107" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="108" ClassCode="4" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+    <Skill Id="32" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="623" DefValue="1" />
+    <Skill Id="33" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="35" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="36" ClassCode="4" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="625" DefValue="1" />
+    <Skill Id="33" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="35" ClassCode="8" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="107" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="108" ClassCode="8" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+    <Skill Id="31" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="624" DefValue="1" />
+    <Skill Id="32" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="623" DefValue="1" />
+    <Skill Id="33" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="627" DefValue="1.2" />
+    <Skill Id="35" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="626" DefValue="33" />
+    <Skill Id="36" ClassCode="16" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="623" RequireSkill2="0" Skill="625" DefValue="1" />
+    <Skill Id="107" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="628" RequireSkill2="0" Skill="629" DefValue="6" />
+    <Skill Id="108" ClassCode="16" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1" />
+	<Skill Id="1" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="37.00"/>
+    <Skill Id="4" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="12.00"/>
+    <Skill Id="6" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="13.00"/>
+    <Skill Id="8" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="7.00"/>
+    <Skill Id="9" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="17.00"/>
+    <Skill Id="10" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.00"/>
+    <Skill Id="12" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.00"/>
+    <Skill Id="14" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="16.00"/>
+    <Skill Id="16" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.00"/>
+    <Skill Id="17" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="17.00"/>
+    <Skill Id="18" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.00"/>
+    <Skill Id="23" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="3.00"/>
+    <Skill Id="24" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="38.00"/>
+    <Skill Id="25" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="40.00"/>
+    <Skill Id="26" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="40.00"/>
+    <Skill Id="27" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="40.00"/>
+    <Skill Id="28" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="40.00"/>
+    <Skill Id="30" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="685" DefValue="17.00"/>
+    <Skill Id="32" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="713" DefValue="2.00"/>
+    <Skill Id="34" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="685" RequireSkill2="0" Skill="686" DefValue="17.00"/>
+    <Skill Id="35" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="716" DefValue="35.00"/>
+    <Skill Id="36" ClassCode="128" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="713" RequireSkill2="0" Skill="715" DefValue="39.00"/>
+    <Skill Id="37" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="13.00"/>
+    <Skill Id="41" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="329" DefValue="17.00"/>
+    <Skill Id="42" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="687" DefValue="3.00"/>
+    <Skill Id="43" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="688" DefValue="4.00"/>
+    <Skill Id="48" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="689" DefValue="22.00"/>
+    <Skill Id="50" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="687" RequireSkill2="0" Skill="690" DefValue="4.00"/>
+    <Skill Id="51" ClassCode="128" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="688" RequireSkill2="0" Skill="691" DefValue="0.00"/>
+    <Skill Id="52" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="9.00"/>
+    <Skill Id="53" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="693" DefValue="18.00"/>
+    <Skill Id="54" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="692" DefValue="4.00"/>
+    <Skill Id="55" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="696" DefValue="4.00"/>
+    <Skill Id="56" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="9.00"/>
+    <Skill Id="60" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="8.00"/>
+    <Skill Id="61" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="699" DefValue="5.00"/>
+    <Skill Id="62" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="692" RequireSkill2="0" Skill="695" DefValue="0.00"/>
+	<Skill Id="63" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="10" ArrowDirection="3" RequireSkill1="696" RequireSkill2="0" Skill="697" DefValue="0.00"/>
+    <Skill Id="71" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="697" RequireSkill2="0" Skill="698" DefValue="0.00"/>
+    <!--Skill Id="65" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="743" DefValue="43.00"/-->
+    <Skill Id="66" ClassCode="128" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="700" DefValue="38.00"/>
+    <Skill Id="70" ClassCode="128" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="700" RequireSkill2="0" Skill="701" DefValue="23.00"/>
+    <Skill Id="73" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="14.00"/>
+    <Skill Id="77" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="702" DefValue="22.00"/>
+    <Skill Id="78" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="703" DefValue="10.00"/>
+    <Skill Id="80" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="704" DefValue="10.00"/>
+    <Skill Id="81" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="702" RequireSkill2="0" Skill="705" DefValue="1.00"/>
+    <Skill Id="82" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="703" RequireSkill2="0" Skill="706" DefValue="23.00"/>
+    <Skill Id="84" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="704" RequireSkill2="0" Skill="707" DefValue="17.00"/>
+    <Skill Id="85" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="708" DefValue="23.00"/>
+    <Skill Id="86" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="18.00"/>
+    <Skill Id="87" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="11.00"/>
+    <Skill Id="88" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="6.00"/>
+    <Skill Id="89" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="708" RequireSkill2="0" Skill="709" DefValue="23.00"/>
+    <Skill Id="90" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="361" DefValue="22.00"/>
+    <Skill Id="92" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="6.00"/>
+    <Skill Id="93" ClassCode="128" Group="2" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="709" RequireSkill2="0" Skill="710" DefValue="38.00"/>
+    <Skill Id="94" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="361" RequireSkill2="0" Skill="364" DefValue="3.00"/>
+    <Skill Id="96" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="38.00"/>
+    <Skill Id="97" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="38.00"/>
+    <Skill Id="98" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="38.00"/>
+    <Skill Id="99" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="718" DefValue="22.00"/>
+    <Skill Id="100" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="38.00"/>
+    <Skill Id="102" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="38.00"/>
+    <Skill Id="104" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="38.00"/>
+    <Skill Id="105" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="711" DefValue="23.00"/>
+    <Skill Id="106" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="712" DefValue="23.00"/>
+    <Skill Id="107" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="718" RequireSkill2="0" Skill="719" DefValue="3.00"/>
+    <Skill Id="108" ClassCode="128" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="38.00"/>
+    <Skill Id="1" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="300" DefValue="18.06" />
+    <Skill Id="4" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="301" DefValue="614" />
+    <Skill Id="6" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="302" DefValue="511" />
+    <Skill Id="8" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="303" DefValue="1.81" />
+    <Skill Id="9" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="300" RequireSkill2="0" Skill="305" DefValue="12.04" />
+    <Skill Id="10" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="302" RequireSkill2="0" Skill="306" DefValue="1.2" />
+    <Skill Id="12" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="303" RequireSkill2="0" Skill="307" DefValue="1.2" />
+    <Skill Id="14" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="309" DefValue="60" />
+    <Skill Id="15" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="746" DefValue="7" />
+    <Skill Id="16" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="307" RequireSkill2="0" Skill="310" DefValue="1.2" />
+    <Skill Id="17" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="305" RequireSkill2="0" Skill="312" DefValue="12.04" />
+    <Skill Id="18" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="309" RequireSkill2="0" Skill="313" DefValue="1.2" />
+    <Skill Id="23" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="1" RequireSkill1="0" RequireSkill2="0" Skill="315" DefValue="6" />
+    <Skill Id="24" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="315" RequireSkill2="0" Skill="316" DefValue="1.02" />
+    <Skill Id="25" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="317" DefValue="14" />
+    <Skill Id="26" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="318" DefValue="14" />
+    <Skill Id="27" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="319" DefValue="14" />
+    <Skill Id="28" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="320" DefValue="14" />
+    <Skill Id="30" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="785" DefValue="12" />
+    <Skill Id="31" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="791" DefValue="1" />
+    <Skill Id="34" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="785" RequireSkill2="0" Skill="786" DefValue="12" />
+    <Skill Id="35" ClassCode="512" Group="0" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="790" DefValue="33" />
+    <Skill Id="37" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="325" DefValue="511" />
+    <Skill Id="41" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="326" DefValue="8" />
+    <Skill Id="44" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="779" DefValue="5" />
+    <Skill Id="45" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="330" DefValue="14" />
+    <Skill Id="46" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="331" DefValue="5" />
+    <Skill Id="48" ClassCode="512" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="779" RequireSkill2="0" Skill="780" DefValue="0" />
+    <Skill Id="51" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="334" DefValue="102" />
+    <Skill Id="52" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="789" DefValue="5" />
+    <Skill Id="55" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="334" RequireSkill2="0" Skill="338" DefValue="102" />
+    <Skill Id="58" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="781" DefValue="5" />
+    <Skill Id="59" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="338" RequireSkill2="0" Skill="341" DefValue="27" />
+    <Skill Id="62" ClassCode="512" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="781" RequireSkill2="0" Skill="782" DefValue="1" />
+    <Skill Id="63" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="743" DefValue="189" />
+    <Skill Id="65" ClassCode="512" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="794" DefValue="0" />
+    <Skill Id="67" ClassCode="512" Group="1" RequiredPoints="10" MaxLevel="10" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="631" DefValue="300" />
+    <Skill Id="68" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="787" DefValue="1" />
+    <Skill Id="72" ClassCode="512" Group="1" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="787" RequireSkill2="0" Skill="788" DefValue="23" />
+    <Skill Id="73" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="347" DefValue="818" />
+    <Skill Id="77" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="783" DefValue="5" />
+    <Skill Id="81" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="10" ArrowDirection="0" RequireSkill1="783" RequireSkill2="0" Skill="784" DefValue="1" />
+    <Skill Id="86" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="357" DefValue="7.22" />
+    <Skill Id="87" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="358" DefValue="9.14" />
+    <Skill Id="88" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="359" DefValue="43.19" />
+    <Skill Id="90" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="361" DefValue="5" />
+    <Skill Id="92" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="359" RequireSkill2="0" Skill="362" DefValue="43.19" />
+    <Skill Id="94" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="361" RequireSkill2="0" Skill="364" DefValue="6" />
+    <Skill Id="96" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="366" DefValue="1.02" />
+    <Skill Id="97" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="367" DefValue="1.02" />
+    <Skill Id="98" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="368" DefValue="1.02" />
+    <Skill Id="99" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="4" RequireSkill1="0" RequireSkill2="0" Skill="792" DefValue="5" />
+    <Skill Id="100" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="366" RequireSkill2="0" Skill="369" DefValue="1.02" />
+    <Skill Id="101" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="0" RequireSkill2="0" Skill="630" DefValue="5" />
+    <Skill Id="102" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="368" RequireSkill2="0" Skill="372" DefValue="1.02" />
+    <Skill Id="104" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="3" RequireSkill1="0" RequireSkill2="0" Skill="370" DefValue="1.02" />
+    <Skill Id="107" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="792" RequireSkill2="0" Skill="793" DefValue="6" />
+    <Skill Id="108" ClassCode="512" Group="2" RequiredPoints="1" MaxLevel="20" ArrowDirection="0" RequireSkill1="370" RequireSkill2="0" Skill="371" DefValue="1.02" />
+	
+
+</MasterSkillTree>

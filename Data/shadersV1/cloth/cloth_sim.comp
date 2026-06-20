@@ -1,0 +1,270 @@
+#version 430
+
+// ===== CLOTH MEGAKERNEL =====
+// Gom integrate + collision + N x (loose -> apply -> strict -> relax -> collision)
+// vao MOT dispatch duy nhat, chay MOT workgroup; sync giua cac phase bang barrier()
+// trong shader thay vi glMemoryBarrier tren host (path cu: ~27 dispatch + 27 barrier
+// moi frame moi cloth -> nghen GPU). Toan hoc copy nguyen van tu 6 shader cu
+// (cloth_integrate/collision/prevent_stretching/apply_moves/strict_constraints/constraints).
+// Cloth MU nho (~100-400 dinh) nen 1 workgroup 256 thread + grid-stride du suc.
+layout(local_size_x = 256) in;
+
+layout(std430, binding = 0) buffer Pos  { vec4 pos[];   };
+layout(std430, binding = 1) buffer Prev { vec4 pprev[]; };
+
+struct GpuLink {
+    int   v1;
+    int   v2;
+    float minDist;
+    float maxDist;
+    int   style;
+    int   _pad;
+};
+layout(std430, binding = 2) buffer Links { GpuLink links[]; };
+
+struct GpuSphere { vec4 c; ivec4 ext; }; // ext.x = bone index
+layout(std430, binding = 3) buffer Spheres { GpuSphere sph[]; };
+
+// Accumulate loose-move bang atomic CAS (float bit-cast trong uint) - giu nguyen
+// co che cua cloth_prevent_stretching.comp de tranh data race khi nhieu link cham
+// chung 1 dinh.
+struct OneTimeMoveData {
+    uint moveX;
+    uint moveY;
+    uint moveZ;
+    uint count;
+};
+layout(std430, binding = 5) buffer OneTimeMove { OneTimeMoveData oneTimeMove[]; };
+
+layout(std140, binding = 0) uniform Bones {
+    mat4 u_bones[128];
+};
+
+// Pin ap dung TRONG shader (phase 0) thay vi glBufferSubData tung dinh tu CPU
+// vao pos/prev dang duoc GPU doc (implicit sync stall tren Mali/Adreno).
+// xyz = world pos, w = float(vertex index).
+layout(std430, binding = 6) buffer Pins { vec4 pins[]; };
+uniform int u_pinCount;
+
+uniform float u_dt;
+uniform vec3  u_wind;
+uniform float u_windScale;
+uniform int   u_gridW;
+uniform int   u_gridH;
+uniform int   u_dwType;
+uniform float u_fWind;
+uniform float u_worldTime;
+uniform int   u_frameCount;
+uniform int   u_sphereCount;
+uniform int   u_iterations;
+
+// ---------- integrate (tu cloth_integrate.comp) ----------
+void integrateVertex(uint i)
+{
+    float vertexInvMass = pos[i].w;
+    if (vertexInvMass == 0.0) { pprev[i] = pos[i]; return; }
+
+    vec3 cur = pos[i].xyz;
+    vec3 prv = pprev[i].xyz;
+    vec3 vel = cur - prv;
+
+    int numVertices = u_gridW * u_gridH;
+    int iSeed = (101 * (u_frameCount / 10)) % max(numVertices, 1);
+    int gridX = int(i) % u_gridW;
+    int gridY = int(i) / u_gridW;
+    int seedX = iSeed % u_gridW;
+    int seedY = iSeed / u_gridW;
+    int iKey = abs(seedX - gridX) + abs(seedY - gridY);
+
+    int pseudoRand = ((int(i) * 73856093) ^ (u_frameCount * 19349663)) % 10;
+    int iTemp = iKey * 10 + pseudoRand;
+    float fRand = float(iTemp % 100) / 100.0;
+
+    vec3 force = fRand * u_wind * u_windScale * 150.0 - vel * 0.005f;
+
+    if ((u_dwType & 0x300) == 0x100) { // PCT_RUBBER
+        force.z += fRand * (u_fWind + 0.1f) * 1.0f;
+    }
+    else if ((u_dwType & 0x300) == 0x200) { // PCT_RUBBER2
+        force.z += fRand * u_fWind;
+    }
+
+    if ((u_dwType & 0xE000) == 0x4000) { // PCT_ELASTIC_HALLOWEEN
+        force.x += -(fRand * u_fWind * 0.5);
+        force.z += fRand * (u_fWind + 0.1) * 0.5 * sin(u_worldTime * 0.003) * 5.0;
+        force.z -= 9.8 * 0.0025 * 50.0;
+    }
+    else if ((u_dwType & 0xE000) == 0x8000) { // PCT_ELASTIC_RAGE_L
+        force.x += -(fRand * u_fWind * 0.8);
+    }
+    else if ((u_dwType & 0xE000) == 0xC000) { // PCT_ELASTIC_RAGE_R
+        force.x -= -(fRand * u_fWind * 0.8);
+    }
+
+    if ((u_dwType & 0xC00) == 0x400) { // PCT_HEAVY
+        force.z -= 9.8 * 0.0025 * 4800.0;
+    }
+    else {
+        force.z -= 9.8 * 0.0025 * 2500.0;
+    }
+
+    vel += force * 400.0f * u_dt; // s_fInvOfMass = 400.0f
+    vec3 nxt = cur + vel * u_dt;
+
+    pprev[i].xyz = cur;
+    pos[i].xyz   = nxt;
+}
+
+// ---------- collision (tu cloth_collision.comp) ----------
+void collideVertex(uint vid)
+{
+    vec3 p = pos[vid].xyz;
+    for (int s = 0; s < u_sphereCount; ++s)
+    {
+        vec3 c = sph[s].c.xyz;
+        float r = sph[s].c.w;
+        int bone = sph[s].ext.x;
+        if (bone >= 0 && bone < 128) {
+            c = (u_bones[bone] * vec4(c, 1.0)).xyz;
+        }
+        vec3 d = p - c;
+        float L = length(d);
+        if (L < r && L > 1e-6) {
+            vec3 n = d / L;
+            p = c + n * r;
+        }
+    }
+    pos[vid].xyz = p;
+}
+
+// ---------- atomic float add vao oneTimeMove (tu cloth_prevent_stretching.comp) ----------
+void atomicAddMove(int v, vec3 move)
+{
+    uint oldU; float oldF;
+    do {
+        oldU = oneTimeMove[v].moveX;
+        oldF = intBitsToFloat(int(oldU));
+    } while (atomicCompSwap(oneTimeMove[v].moveX, oldU, uint(floatBitsToInt(oldF + move.x))) != oldU);
+    do {
+        oldU = oneTimeMove[v].moveY;
+        oldF = intBitsToFloat(int(oldU));
+    } while (atomicCompSwap(oneTimeMove[v].moveY, oldU, uint(floatBitsToInt(oldF + move.y))) != oldU);
+    do {
+        oldU = oneTimeMove[v].moveZ;
+        oldF = intBitsToFloat(int(oldU));
+    } while (atomicCompSwap(oneTimeMove[v].moveZ, oldU, uint(floatBitsToInt(oldF + move.z))) != oldU);
+    do {
+        oldU = oneTimeMove[v].count;
+        oldF = intBitsToFloat(int(oldU));
+    } while (atomicCompSwap(oneTimeMove[v].count, oldU, uint(floatBitsToInt(oldF + 1.0))) != oldU);
+}
+
+// ---------- loose accumulate (tu cloth_prevent_stretching.comp) ----------
+void looseLink(uint i)
+{
+    GpuLink L = links[i];
+    if ((L.style & 1) == 0) return; // PLS_LOOSEDISTANCE
+
+    int ia = L.v1;
+    int ib = L.v2;
+    vec3 a = pos[ia].xyz;
+    vec3 b = pos[ib].xyz;
+    vec3 ab = b - a;
+    float d = length(ab);
+    if (d < 1e-6) return;
+
+    float diff = d - L.maxDist;
+    if (abs(diff) < 1e-6) return;
+
+    vec3 dir = ab / d;
+    vec3 move = diff * dir * 0.55f;
+
+    if (pos[ia].w > 0.0) atomicAddMove(ia,  move);
+    if (pos[ib].w > 0.0) atomicAddMove(ib, -move);
+}
+
+// ---------- apply moves (tu cloth_apply_moves.comp) ----------
+void applyMovesVertex(uint i)
+{
+    float moveX = intBitsToFloat(int(oneTimeMove[i].moveX));
+    float moveY = intBitsToFloat(int(oneTimeMove[i].moveY));
+    float moveZ = intBitsToFloat(int(oneTimeMove[i].moveZ));
+    float count = intBitsToFloat(int(oneTimeMove[i].count));
+
+    if (count > 0.0) {
+        vec3 avgMove = vec3(moveX, moveY, moveZ) / max(count, 1.0);
+        pos[i].xyz += avgMove;
+    }
+
+    oneTimeMove[i].moveX = 0u;
+    oneTimeMove[i].moveY = 0u;
+    oneTimeMove[i].moveZ = 0u;
+    oneTimeMove[i].count = 0u;
+}
+
+// ---------- strict clamp (tu cloth_strict_constraints.comp: adaptive; cloth_constraints.comp: 0.3) ----------
+void strictLink(uint i, bool adaptive)
+{
+    GpuLink L = links[i];
+    if ((L.style & 4) == 0) return; // PLS_STRICTDISTANCE
+    if (L.v2 < u_gridW) return;     // CPU: m_nVertices[1] >= m_iNumHor
+
+    int ia = L.v1;
+    int ib = L.v2;
+    vec3 a = pos[ia].xyz;
+    vec3 b = pos[ib].xyz;
+    vec3 ab = b - a;
+    float d = length(ab);
+    if (d < 1e-6) return;
+    if (d > L.maxDist * 20.0) return;
+
+    if (d > L.maxDist) {
+        float strength = adaptive ? ((L.maxDist >= 70.0) ? 0.35f : 0.6f) : 0.3f;
+        vec3 corr = (d - L.maxDist) * (ab / d) * strength;
+        if (pos[ib].w > 0.0) {
+            pos[ib].xyz -= corr;
+        }
+    }
+}
+
+void main()
+{
+    uint tid = gl_LocalInvocationID.x;
+    uint nV = uint(pos.length());
+    uint nL = uint(links.length());
+
+    // Phase 0: ghim dinh theo bone (pos = prev = world pos, w=0 -> invMass 0)
+    for (uint i = tid; i < uint(u_pinCount); i += 256u) {
+        int v = int(pins[i].w);
+        if (v >= 0 && v < int(nV)) {
+            vec4 p = vec4(pins[i].xyz, 0.0);
+            pos[v] = p;
+            pprev[v] = p;
+        }
+    }
+    memoryBarrierBuffer(); barrier();
+
+    for (uint i = tid; i < nV; i += 256u) integrateVertex(i);
+    memoryBarrierBuffer(); barrier();
+
+    for (uint i = tid; i < nV; i += 256u) collideVertex(i);
+    memoryBarrierBuffer(); barrier();
+
+    for (int it = 0; it < u_iterations; ++it)
+    {
+        for (uint i = tid; i < nL; i += 256u) looseLink(i);
+        memoryBarrierBuffer(); barrier();
+
+        for (uint i = tid; i < nV; i += 256u) applyMovesVertex(i);
+        memoryBarrierBuffer(); barrier();
+
+        for (uint i = tid; i < nL; i += 256u) strictLink(i, true);
+        memoryBarrierBuffer(); barrier();
+
+        for (uint i = tid; i < nL; i += 256u) strictLink(i, false);
+        memoryBarrierBuffer(); barrier();
+
+        for (uint i = tid; i < nV; i += 256u) collideVertex(i);
+        memoryBarrierBuffer(); barrier();
+    }
+}

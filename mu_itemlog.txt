@@ -1,0 +1,669 @@
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=9 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9730 bootsPart=9910
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[SetChangeClass] hero=1 class=25 armorPart=9730
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[ChangeCharacterExt] key=5 pChar=0
+[ChangeCharacterExt] key=6 pChar=0
+[ChangeCharacterExt] key=7 pChar=0
+[ChangeCharacterExt] key=8 pChar=0
+[ChangeCharacterExt] key=9 pChar=0
+[ChangeCharacterExt] key=10 pChar=0
+[ChangeCharacterExt] key=11 pChar=0
+[ChangeCharacterExt] key=12 pChar=0
+[ChangeCharacterExt] key=13 pChar=0
+[ChangeCharacterExt] key=14 pChar=0
+[ChangeCharacterExt] key=15 pChar=0
+[ChangeCharacterExt] key=16 pChar=0
+[ChangeCharacterExt] key=17 pChar=0
+[ChangeCharacterExt] key=18 pChar=0
+[ChangeCharacterExt] key=19 pChar=0
+[ChangeCharacterExt] key=20 pChar=0
+[ChangeCharacterExt] key=23 pChar=0
+[ChangeCharacterExt] key=24 pChar=0
+[ChangeCharacterExt] key=25 pChar=0
+[ChangeCharacterExt] key=26 pChar=0
+[ChangeCharacterExt] key=27 pChar=0
+[ChangeCharacterExt] key=28 pChar=0
+[ChangeCharacterExt] key=29 pChar=0
+[ChangeCharacterExt] key=30 pChar=0
+[ChangeCharacterExt] key=31 pChar=0
+[ChangeCharacterExt] key=32 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[SetChangeClass] hero=1 class=25 armorPart=9745
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[SetChangeClass] hero=1 class=25 armorPart=9745
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[SetCharacterClass] hero=1 class=25 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9745 bootsPart=9925
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=13 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9734 bootsPart=9914
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=0 pChar=0
+[ChangeCharacterExt] key=1 pChar=0
+[ChangeCharacterExt] key=2 pChar=0
+[ChangeCharacterExt] key=3 pChar=0
+[ChangeCharacterExt] key=4 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[ChangeCharacterExt] key=0 pChar=0
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
+[SetCharacterClass] hero=1 class=50 armorEq=-1 helmEq=-1 bootsEq=-1
+[SetCharacterClass] DONE hero=1 armorPart=9753 bootsPart=9933
